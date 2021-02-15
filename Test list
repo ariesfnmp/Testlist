@@ -191,8 +191,6 @@ http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/2055
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/2056
 #EXTINF:-1,09 | TBS
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/2057
-#EXTINF:-1,10 | DHE
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/2058
 #EXTINF:-1,11 | TLC
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/2059
 #EXTINF:-1,12 | HGTV
@@ -211,8 +209,6 @@ http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/2065
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/2066
 #EXTINF:-1,19 | UNIMAS
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/2067
-#EXTINF:-1,20 | CANAL DE LAS ESTRELLAS
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/2068
 #EXTINF:-1,21 | A3 SERIES
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/2069
 #EXTINF:-1,22 | ANTENA 3
@@ -479,8 +475,6 @@ http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/2827
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3007
 #EXTINF:-1,47 | SPACE
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3008
-#EXTINF:-1,48 | STUDIO UNIVERSAL
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3009
 #EXTINF:-1,49 | SYFY
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3010
 #EXTINF:-1,50 | TLC
@@ -515,12 +509,8 @@ http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3024
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3025
 #EXTINF:-1,65 | AZ CLICK
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3026
-#EXTINF:-1,66| DHE
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3028
 #EXTINF:-1,67 | E ENTERTAIMENTS
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3029
-#EXTINF:-1,68 | GOLF CHANNEL
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3030
 #EXTINF:-1,69| MTV
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3031
 #EXTINF:-1,70 | STAR TVE
@@ -833,8 +823,6 @@ http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3577
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3578
 #EXTINF:-1,09 | TELEANTIOQUIA
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3579
-#EXTINF:-1,10 | TELECAFE HD
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3580
 #EXTINF:-1,11 | TELECARIBE
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3581
 #EXTINF:-1,11 | TELECARIBE HD
@@ -1203,8 +1191,6 @@ http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3778
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3779
 #EXTINF:-1,81 | NBC Golf MX UHD
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3780
-#EXTINF:-1,82 | Nick 2 MX UHD
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3781
 #EXTINF:-1,83 | Nick Jr. MX UHD
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3782
 #EXTINF:-1,84 | Nick MX UHD
@@ -1217,8 +1203,6 @@ http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3785
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3786
 #EXTINF:-1,88 | RMS MX UHD
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3787
-#EXTINF:-1,89 | SENDERO MX UHD
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3789
 #EXTINF:-1,89 | She TV MX UHD
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3790
 #EXTINF:-1,90 | Space MX UHD
@@ -1355,5 +1339,3 @@ http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3866
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3867
 #EXTINF:-1,30 |  HBO Family (L)
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3868
-#EXTINF:-1,31 |  Las Estrellas (L)
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3869
