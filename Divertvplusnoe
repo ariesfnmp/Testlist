@@ -37,12 +37,12 @@ http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2671
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2670
 #EXTINF:-1,LA_SD:CDO Basico CHILE
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2669
-#EXTINF:-1,LA_SD:CDN 37 RD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2667
 #EXTINF:-1,LA_SD:SUR_13_C CHILE
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2665
-#EXTINF:-1,LA_SD:SUR_GLOBOVISION
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2662
+#EXTINF:-1,LA_FHD:CANAL 13 Chile HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2664
+#EXTINF:-1,LA_SD:SUR_CDF PREMIUM
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2663
 #EXTINF:-1,LA_SD:FOX SPORT VEN
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2661
 #EXTINF:-1,LA_SD:SUR_VE_Vive
@@ -57,16 +57,10 @@ http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2651
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2650
 #EXTINF:-1,LA_SD:SAL_VTV Canal 35
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2648
-#EXTINF:-1,LA_SD:SAL_CANAL 4
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2647
-#EXTINF:-1,LA_SD:SAL_Canal 19
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2646
 #EXTINF:-1,LA_SD:SAL_Canal  21
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2645
-#EXTINF:-1,LA_SD:SAL_ CANAL 2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2643
-#EXTINF:-1,LA_SD:SAL_ CANAL 12
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2642
+#EXTINF:-1,LA_SD:SAL_ CANAL 6
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2644
 #EXTINF:-1,LA_SD:RD_Telesistema
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2639
 #EXTINF:-1,LA_SD:RD_TeleMicro
@@ -77,10 +71,6 @@ http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2637
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2635
 #EXTINF:-1,LA_SD:RD_Color Vision 9
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2634
-#EXTINF:-1,LA_SD:RD_CDN 37
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2633
-#EXTINF:-1,LA_SD:RD_Antena Latina
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2632
 #EXTINF:-1,LA_SD:EWTN
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2631
 #EXTINF:-1,LA_SD:Enlace TV
@@ -91,10 +81,6 @@ http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2629
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2628
 #EXTINF:-1,LA_PR:Wipr Canal 6
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2625
-#EXTINF:-1,LA_PR:Univision
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2623
-#EXTINF:-1,LA_PR:Teleoro Canal 13
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2621
 #EXTINF:-1,RETRO TV MUSIC
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2620
 #EXTINF:-1,LA_SD:SUR_PE_PERU MAGICO
@@ -115,8 +101,8 @@ http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2613
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2612
 #EXTINF:-1,LA_SD:Gol TV PERU
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2611
-#EXTINF:-1,LA_SD:SUR_Frecuencia Latina
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2609
+#EXTINF:-1,LA_SD:SUR_TV PERU
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2610
 #EXTINF:-1,LA_SD:PAN_NEXT TV 21
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2604
 #EXTINF:-1,LA_SD:PAN_MAS TV 23
@@ -143,622 +129,720 @@ http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2594
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2593
 #EXTINF:-1,LA_HD:PAN_TVN 2
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2592
-#EXTINF:-1,LA_SD_MEX2:BLOOMBERG
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2591
 #EXTINF:-1,LA_SD_MEX2:BBC WORLD NEWS
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2589
-#EXTINF:-1,LA_SD:SUR_NTN 24 HORAS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2584
-#EXTINF:-1,LA_SD:SUR_GLOBOVISION
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2583
-#EXTINF:-1,LA_SD:SUR_CO_CABLENOTICIA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2582
-#EXTINF:-1,LA_SD:SUR_TELESUR
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2577
-#EXTINF:-1,LA_SD:Antena_3
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2576
-#EXTINF:-1,LA_HD_MEX2:NTN24
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2575
-#EXTINF:-1,LA_HD_MEX2:Foro TV HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2574
-#EXTINF:-1,LA_HD_MEX2:CNN en Español
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2570
-#EXTINF:-1,ES:FOX NEWS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2565
-#EXTINF:-1,LA_HD_MEX2:MTV Live HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2548
-#EXTINF:-1,LA_HD_MEX2:MTV Hits
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2547
+#EXTINF:-1,*ARG_HD:TELESUR
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2587
+#EXTINF:-1,*ARG_HD:CNN EN ESPANIOL
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2585
+#EXTINF:-1,LA_HD_MEX2:Formula Noticias
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2573
+#EXTINF:-1,LA_HD_MEX2:Antena 3 HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2567
+#EXTINF:-1,LA_SD:NIC_Canal 4
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2559
+#EXTINF:-1,LA_SD_MEX2:BANDAMAX
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2552
 #EXTINF:-1,*ARG_HD:MUSIC TOP
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2541
+#EXTINF:-1,LA_SD:MTV HIT
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2539
 #EXTINF:-1,LA_SD:MTV
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2538
-#EXTINF:-1,LA_SD_MEX2:BABY FIRST
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2454
-#EXTINF:-1,LA_HD_MEX2:Nat Geo Kids HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2452
-#EXTINF:-1,LA_HD_MEX2:Nickelodeon HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2449
+#EXTINF:-1,LA_SD:CONCERT CHANNEL
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2536
+#EXTINF:-1,LA_HD_MEX2:VH1 Classic
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2535
+#EXTINF:-1,LA_HD_MEX2:VH1
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2534
+#EXTINF:-1,HD_VH1_1920
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2532
+#EXTINF:-1,LA_SD_MEX2:DISNEY CHANNEL
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2458
+#EXTINF:-1,LA_SD_MEX2:DISCOVERY KIDS
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2457
+#EXTINF:-1,LA_SD_MEX2:CARTOON NETWORK
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2456
+#EXTINF:-1,LA_SD_MEX2:BOOMERANG
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2455
 #EXTINF:-1,LA_HD_MEX2:Nickelodeon
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2448
-#EXTINF:-1,LA_HD_MEX2:Nick 2 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2446
-#EXTINF:-1,*ARG_HD:NICKELODEON JR
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2445
-#EXTINF:-1,ES:Nick Junior
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2406
-#EXTINF:-1,LA_SD:HON_Telesistema
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2389
-#EXTINF:-1,LA_SD:HON_Telecadena
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2388
-#EXTINF:-1,LA_SD_MEX2:HOLA TV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2376
-#EXTINF:-1,US_HD:PASIONES
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2363
-#EXTINF:-1,US_HD:LA_Telenovelas
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2353
-#EXTINF:-1,LA_SD_MEX2:FOX SPORTS 2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2305
+#EXTINF:-1,LA_HD_MEX2:Disney XD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2443
+#EXTINF:-1,LA_HD_MEX2:Disney Jr.
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2442
+#EXTINF:-1,LA_HD_MEX2:Discovery Kids
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2433
+#EXTINF:-1,LA_SD:NICKELODEON
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2432
+#EXTINF:-1,HD_NICK2_1920
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2412
+#EXTINF:-1,LA_SD:SUR_Disney XD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2395
+#EXTINF:-1,LA_SD_MEX2:AZTECA CINEMA_
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2372
+#EXTINF:-1,LA_FHD_MEX:BITME
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2362
+#EXTINF:-1,LA_FHD:Univision New York HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2352
+#EXTINF:-1,LA_HD_MEX2:TVE
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2341
+#EXTINF:-1,LA_HD_MEX2:AZ Click B1
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2325
+#EXTINF:-1,LA_SD:SUR_TLT
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2318
+#EXTINF:-1,LA_*HD:DIRECTV SPORTS ECUADOR
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2314
+#EXTINF:-1,LA_HD:EC_GOLTV ECUADOR
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2313
+#EXTINF:-1,LA_SD:SUR_OROMAR TV
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2310
+#EXTINF:-1,LA_SD_MEX2:FOX SPORTS
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2304
 #EXTINF:-1,LA_SD_MEX2:FOX SPORT2
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2303
 #EXTINF:-1,LA_SD_MEX2:ESPN U
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2302
+#EXTINF:-1,LA_SD_MEX2:ESPN 3
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2299
 #EXTINF:-1,LA_SD_MEX2:ESPN 2
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2298
-#EXTINF:-1,*ARG_HD:FOX SPORTS 3
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2291
-#EXTINF:-1,LA_HD_MEX2:Espn HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2275
+#EXTINF:-1,LA_SD_MEX2:ESPN
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2297
+#EXTINF:-1,LA_FHD:TIGO SPORT CR 1
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2296
+#EXTINF:-1,*ARG_HD:ESPN 2
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2293
+#EXTINF:-1,*ARG_HD:ESPN
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2292
+#EXTINF:-1,*ARG_HD:FOX SPORTS 2
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2290
+#EXTINF:-1,LA_HD:EC_DIRECTV SPORT
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2287
+#EXTINF:-1,LA_FHD:DirectvSP 2
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2286
+#EXTINF:-1,LA_SD:WIN SPORT
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2282
+#EXTINF:-1,LA_FHD:WIN SP
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2281
+#EXTINF:-1,LA_HD_MEX2:Fox Sports 3 HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2280
+#EXTINF:-1,LA_FHD2:ESPN HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2279
+#EXTINF:-1,LA_FHD2:ESPN 2 HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2277
 #EXTINF:-1,LA_HD_MEX2:Espn 3
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2274
-#EXTINF:-1,*ARG_HD:DEPORTV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2271
+#EXTINF:-1,LA_HD_MEX2:Espn 2 HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2273
+#EXTINF:-1,HD_FOX SPORT 3_1920
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2270
 #EXTINF:-1,HD_ESPN 3_1920
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2267
-#EXTINF:-1,HD_ESPN_1920
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2265
-#EXTINF:-1,US_HD:LA_TYC Sport
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2257
-#EXTINF:-1,LA_SD:ESPN 2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2247
+#EXTINF:-1,HD_ESPN 2_1920
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2266
+#EXTINF:-1,LA_FHD2:Fox HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2262
+#EXTINF:-1,LA_SD:Gol TV PERU
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2256
+#EXTINF:-1,LA_SD:Gol TV
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2255
+#EXTINF:-1,LA_SD:FOX SPORT
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2251
 #EXTINF:-1,LA_SD:ESPN
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2246
-#EXTINF:-1,LA_SD:DirectvSP 1 b
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2245
-#EXTINF:-1,LA_SD:CDO
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2244
-#EXTINF:-1,LA_SD:CDF ESTADIO
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2242
-#EXTINF:-1,LA_SD:TIGO SPORTS 1 SD (BOLIVIA)
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2235
-#EXTINF:-1,ES:EUROSPORT 2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2233
-#EXTINF:-1,ES:GOL TV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2232
-#EXTINF:-1,ES:MoviStar FORMULA 1 FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2230
-#EXTINF:-1,ES:TOROS HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2227
+#EXTINF:-1,LA_SD:CDO BASICO
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2243
+#EXTINF:-1,LA_HD_MEX2:NBC Golf HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2241
+#EXTINF:-1,LA_HD_MEX2:AYM Sports
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2240
+#EXTINF:-1,LA_SD:TIGO SPORTS 2 SD (BOLIVIA)
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2236
+#EXTINF:-1,ES:LaLiga TV BAR FHD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2224
 #EXTINF:-1,ES:Canal Golf FHD
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2223
-#EXTINF:-1,ES:MOVISTAR FORMULA 1 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2217
-#EXTINF:-1,ES:MOVISTAR DEPORTES HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2215
+#EXTINF:-1,ES:BEIN LALIGA HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2222
+#EXTINF:-1,LA_SD:SUR_ESPN 3
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2221
+#EXTINF:-1,LA_SD:SUR_ESPN 2
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2220
+#EXTINF:-1,LA_HD:TIGO SPORTS 3 HD (BOLIVIA)
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2219
+#EXTINF:-1,ES:LA LIGA TV HD BAR
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2214
+#EXTINF:-1,ES:MOVISTAR LIGA CAMPEONES HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2213
 #EXTINF:-1,ES:MOVISTAR DEPORTE 1 HD
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2212
-#EXTINF:-1,ES:MOVIESTAR DEPORTESHD HEVC
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2211
-#EXTINF:-1,ES:MOVIESTAR LIGA CAMPEONES HEVC
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2204
 #EXTINF:-1,HD:SPORTS TV (BR)
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2197
-#EXTINF:-1,LA_HD:FOX SPORTS PREM (ARG)
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2192
 #EXTINF:-1,LA_SD:TIGO SPORTS 3 SD (BOLIVIA)
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2191
-#EXTINF:-1,LA_SD_MEX2:DISCOVERY TURBO
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2186
+#EXTINF:-1,LA_SD:SUR_CDF ESTADIO
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2190
+#EXTINF:-1,LA_SD:SUR_Fox Sports Premium
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2189
+#EXTINF:-1,LA_SD_MEX2:HISTORY
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2188
+#EXTINF:-1,LA_SD_MEX2:DISCOVERY WORLD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2187
 #EXTINF:-1,LA_SD_MEX2:DISCOVERY TH
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2185
 #EXTINF:-1,LA_SD_MEX2:DISCOVERY SCI
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2184
-#EXTINF:-1,LA_SD_MEX2:DISCOVERY ID
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2183
 #EXTINF:-1,LA_SD_MEX2:DISCOVERY H&H
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2182
-#EXTINF:-1,US_HD:Discovery Turbo Latino
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2178
-#EXTINF:-1,LA_FHD2:H2 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2176
-#EXTINF:-1,*ARG_HD:NAT GEO
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2172
+#EXTINF:-1,LA_SD_MEX2:DISCOVERY CIVILIZATION
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2181
 #EXTINF:-1,*ARG_HD:MAS CHIC
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2171
-#EXTINF:-1,LA_HD_MEX2:Discovery Science
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2167
+#EXTINF:-1,*ARG_HD:HISTORY
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2170
 #EXTINF:-1,HD_DISCOVERY HH_1920
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2166
-#EXTINF:-1,HD_DISCOVERY CH_1920
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2165
 #EXTINF:-1,LA_HD_MEX2:TLC HD
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2162
-#EXTINF:-1,LA_HD_MEX2:Discovery H&H HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2161
-#EXTINF:-1,LA_SD:DISCOVERY TURBO
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2155
-#EXTINF:-1,LA_SD:DISCOVERY SCIENCE
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2154
-#EXTINF:-1,LA_SD:DISCOVERY H&H
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2153
-#EXTINF:-1,LA_SD:DISCOVERY CIVILIZATION_
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2152
+#EXTINF:-1,LA_SD:NAT GEO
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2158
+#EXTINF:-1,LA_SD:H2
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2156
+#EXTINF:-1,LA_SD:DISCOVERY CIVILIZATION
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2151
 #EXTINF:-1,LA_SD:SUR_DISCOVERY CHANNEL
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2150
-#EXTINF:-1,LA_FHD2:Investigation Discovery HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2147
+#EXTINF:-1,LA_SD:ANIMAL PLANET
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2149
+#EXTINF:-1,LA_SD:El GOURMET
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2148
 #EXTINF:-1,LA_FHD2:History Channel HD
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2146
-#EXTINF:-1,LA_FHD2:Home & Health HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2145
 #EXTINF:-1,LA_FHD2:Discovery Channel HD
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2144
-#EXTINF:-1,LA_HD_MEX2:National Geographic
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2143
-#EXTINF:-1,LA_HD_MEX2:Investigation Discovery HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2142
-#EXTINF:-1,LA_HD_MEX2:Investigation Discovery
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2141
-#EXTINF:-1,LA_HD_MEX2:Discovery Turbo HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2135
-#EXTINF:-1,LA_HD_MEX2:Discovery Theater HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2134
+#EXTINF:-1,LA_HD_MEX2:Discovery World HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2136
+#EXTINF:-1,HD_NAT GEO_1920
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2133
+#EXTINF:-1,HD_HISTORY_1920
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2132
+#EXTINF:-1,HD_DISCOVERY WORLD_1920
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2131
+#EXTINF:-1,HD_DISCOVERY THEATER_1920
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2130
 #EXTINF:-1,HD_DISCOVERY ID_1920
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2129
-#EXTINF:-1,HD_DISCOVERY CIVILIZATION_1920
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2128
 #EXTINF:-1,HD_ANIMAL PLANET_1920
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2127
-#EXTINF:-1,ES:NAT GEO WILD HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2126
-#EXTINF:-1,ES:VIAJAR HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2125
-#EXTINF:-1,ES:Discovery Channel HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2124
-#EXTINF:-1,ES:CRIME AND INVESTIGATION
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2123
+#EXTINF:-1,LA_SD:SUR_Home and Health
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2118
 #EXTINF:-1,LA_SD:SUR_Discovery Turbo
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2116
-#EXTINF:-1,LA_HD:RCN
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2088
-#EXTINF:-1,LA_HD:TIGO SPORTS 1 HD (BOLIVIA)
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2071
-#EXTINF:-1,LA_SD_MEX2:FOX NEWS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1546
-#EXTINF:-1,CANAL 10
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1300
-#EXTINF:-1,LA TELE
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1299
+#EXTINF:-1,LA_SD:SUR_Discovery ID
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2115
+#EXTINF:-1,LA_SD:Travel and Living Channel
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2114
+#EXTINF:-1,LA_SD:CUBA_Cubavision
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2111
+#EXTINF:-1,LA_FHD:CR TD2
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2105
+#EXTINF:-1,LA_FHD:CR TD1
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2104
+#EXTINF:-1,LA_SD:WIN SPORT
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2103
+#EXTINF:-1,LA_SD:CDF Premium
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2076
+#EXTINF:-1,LA_FHD:CANAL 13 Chile HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2074
 #EXTINF:-1,LA_HD:URUGUAY VTV
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1295
-#EXTINF:-1,LA_SD:UR_MONTECARLO
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1290
+#EXTINF:-1,LA_SD:UR_VTV PLUS
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1294
+#EXTINF:-1,LA_SD:UR_VTV
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1293
+#EXTINF:-1,LA_SD:UR_LA TELE
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1289
 #EXTINF:-1,LA_SD:UR_Eventos 1
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1288
 #EXTINF:-1,LA_HD:UR_VTV URUGUAY
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1287
-#EXTINF:-1,LA_HD:UR_VTV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1286
-#EXTINF:-1,LA_*UR:CANAL 4
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1285
+#EXTINF:-1,ES:NOVA
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1206
 #EXTINF:-1,ES:Andalucia TV
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1204
-#EXTINF:-1,ES:FOX NEWS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1160
-#EXTINF:-1,LA_SD_MEX2:WARNER CH
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1118
-#EXTINF:-1,LA_SD_MEX2:Telmex
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1102
-#EXTINF:-1,LA_SD_MEX2:SUNDNCE
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1094
-#EXTINF:-1,LA_SD_MEX2:ESPN U
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1041
-#EXTINF:-1,LA_SD_MEX2:DISCOVERY CIVILIZATION
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1021
+#EXTINF:-1,ES:EUROSPORT 2
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1181
+#EXTINF:-1,ES:CANAL SUR
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1157
+#EXTINF:-1,ES:ANTENA 3 HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1135
+#EXTINF:-1,ES:MOVISTAR ACCION HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1124
+#EXTINF:-1,LA_SD_MEX2:TNT SERIES
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1106
+#EXTINF:-1,LA_SD_MEX2:TNT
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1105
+#EXTINF:-1,LA_SD_MEX2:TLR
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1104
+#EXTINF:-1,LA_SD_MEX2:NAT GEO WILD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1080
+#EXTINF:-1,LA_SD_MEX2:FOX NEWS
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1052
+#EXTINF:-1,LA_SD_MEX2:FOOD NETWORK
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1043
+#EXTINF:-1,LA_SD_MEX2:E!
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1034
+#EXTINF:-1,LA_SD_MEX2:DISCOVERY ID
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1023
 #EXTINF:-1,LA_SD_MEX2:DE PELICULA_
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1019
-#EXTINF:-1,LA_SD_MEX2:AZTECA CINEMA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/991
-#EXTINF:-1,LA_FHD_MEX:BITME
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/979
+#EXTINF:-1,LA_SD_MEX2:BLOMMBERG
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1001
+#EXTINF:-1,LA_SD_MEX2:BANDAMAX
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/999
+#EXTINF:-1,LA_SD_MEX2:AZTECA 1
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/990
 #EXTINF:-1,LA_HD_MEX2:Comedy Central HD
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/974
-#EXTINF:-1,LA_HD_MEX2:TCM
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/924
+#EXTINF:-1,LA_HD_MEX2:Discovery Civilization
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/951
+#EXTINF:-1,LA_HD_MEX2:TVO HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/934
+#EXTINF:-1,LA_HD_MEX2:NTN24
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/916
+#EXTINF:-1,BOLV_:RED UNO
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3188
+#EXTINF:-1,BEIN US_HD:Bein 4
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3210
 #EXTINF:-1,BEIN US_HD:Bein 5
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3211
-#EXTINF:-1,BEIN SPORTS 2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3212
+#EXTINF:-1,Bein 1
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3218
+#EXTINF:-1,NBA TV FHD (p)
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3227
+#EXTINF:-1,US_HD:NBA TV HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3228
 #EXTINF:-1,VTV FHD OPCION 2
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3661
+#EXTINF:-1,ES:MOVISTAR LA LIGA DE CAMPEONES FHD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4067
+#EXTINF:-1,ES:MOVISTARr GOLF FHD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4068
+#EXTINF:-1,LA_FHD2:FOX COMEDY HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4072
+#EXTINF:-1,LA_FHD2:FOX SPORTS 2 HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4073
+#EXTINF:-1,LA_FHD2:FOX SPORTS 3 HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4074
+#EXTINF:-1,LA_FHD2:NAT GEO KIDSHD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4075
 #EXTINF:-1,LA_FHD2:TBS HD
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4076
-#EXTINF:-1,LA_FHD:Showtime East HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4104
+#EXTINF:-1,LA_FHD:Telemundo Chicago HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4081
+#EXTINF:-1,LA_FHD:Univision Dallas HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4082
+#EXTINF:-1,LA_FHD:Univision Miami HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4084
+#EXTINF:-1,LA_FHD:Univision Telenovelas HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4085
+#EXTINF:-1,LA_FHD:Starz Kids & Family HD_1080P
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4087
+#EXTINF:-1,LA_FHD:Starz Encore HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4091
+#EXTINF:-1,LA_FHD:Starz Encore Family HD_1080P
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4092
+#EXTINF:-1,LA_FHD:Starz Family HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4093
+#EXTINF:-1,LA_FHD:Starz Encore Classic HD_1080P
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4094
+#EXTINF:-1,LA_FHD:Starz Encore Black HD_1080P
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4095
+#EXTINF:-1,LA_FHD:Starz Encore Action 1080P
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4096
+#EXTINF:-1,LA_FHD:Starz Edge HD_1080P
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4097
+#EXTINF:-1,LA_FHD:Starz East HD_1080P
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4098
+#EXTINF:-1,LA_FHD:Starz Black HD_1080P
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4100
+#EXTINF:-1,LA_FHD:Starz Cinema HD_1080P
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4101
+#EXTINF:-1,LA_FHD:Showtime West HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4102
+#EXTINF:-1,LA_FHD:Showtime HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4103
+#EXTINF:-1,LA_FHD:MoreMax HD_1080P
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4108
 #EXTINF:-1,LA_FHD:HBO Plus HD_1080P
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4111
+#EXTINF:-1,SD:A&E
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19238
+#EXTINF:-1,SD:AXN
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19240
+#EXTINF:-1,SD:SUR_AXN
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19241
+#EXTINF:-1,SD:SUR_HBO MUNDI
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19242
 #EXTINF:-1,SD:CINE LATINO
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19244
-#EXTINF:-1,SD:FOX COMEDY
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19249
-#EXTINF:-1,SD:FOX FAMILY
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19250
+#EXTINF:-1,SD:FOX ACTION
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19246
+#EXTINF:-1,SD:FOX CINEMA
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19247
 #EXTINF:-1,SD:FOX LIFE
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19251
 #EXTINF:-1,SD:FX
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19254
-#EXTINF:-1,LA_:HBO 2 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19263
-#EXTINF:-1,LA_:HBO Signature HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19265
-#EXTINF:-1,LA_:HBO Xtreme HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19266
-#EXTINF:-1,HBO 2 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19267
-#EXTINF:-1,HBO Xtreme HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19269
-#EXTINF:-1,HBO HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19270
+#EXTINF:-1,SD:HBO PLUS
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19260
+#EXTINF:-1,LA_:HBO Pop HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19262
+#EXTINF:-1,LA_:HBO Family HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19264
+#EXTINF:-1,HBO Family HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19268
+#EXTINF:-1,LA_SD:SUR_AXN
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19273
+#EXTINF:-1,LA_SD:SUR_CINEMAX
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19275
+#EXTINF:-1,LA_SD:SUR_CLARO CINEMA
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19276
+#EXTINF:-1,LA_SD:SUR_FOX P SERIES E
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19281
+#EXTINF:-1,LA_SD:SUR_FX
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19282
+#EXTINF:-1,LA_SD:SUR_HBO
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19284
+#EXTINF:-1,LA_SD:SUR_HBO 2
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19285
 #EXTINF:-1,LA_SD:SUR_HBO PLUS
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19287
-#EXTINF:-1,LA_SD:SUR_SPACE
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19289
 #EXTINF:-1,LA_SD:SUR_TNT
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19292
-#EXTINF:-1,LA_SD:TNT SERIES
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19295
-#EXTINF:-1,*ARG_SD: HBO
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19296
+#EXTINF:-1,ES:TCM HD HEVC
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19293
 #EXTINF:-1,*ARG_SD: HBO 2
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19297
+#EXTINF:-1,*ARG_SD: HBO SIGNATURE
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19299
+#EXTINF:-1,*ARG_SD:FX
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19302
+#EXTINF:-1,*ARG_SD:FXM
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19303
 #EXTINF:-1,*ARG_SD:STUDIO UNIVERSAL
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19304
-#EXTINF:-1,*ARG_SD:CINECANAL
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19307
-#EXTINF:-1,*ARG_SD:CINEMAX
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19308
-#EXTINF:-1,*ARG_SD:SONY
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19312
-#EXTINF:-1,*ARG_SD:TCM
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19319
+#EXTINF:-1,*ARG_SD:TNT
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19306
+#EXTINF:-1,*ARG_SD:WARNER
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19310
+#EXTINF:-1,*ARG_SD:I-SAT
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19318
+#EXTINF:-1,*ARG_SD:FILM & ARTS
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19320
+#EXTINF:-1,*ARG_SD:FOX LIFE
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19322
+#EXTINF:-1,*ARG_SD:FOX CINEMA
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19323
+#EXTINF:-1,*ARG_SD:FOX MOVIES
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19324
 #EXTINF:-1,*ARG_SD:HBO SIGNATURE
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19325
 #EXTINF:-1,|HBO
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19326
+#EXTINF:-1,|HBO 2 ®
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19327
+#EXTINF:-1,|HBO FAMILY ®
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19328
+#EXTINF:-1,| AMC LQ
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19336
+#EXTINF:-1,|CINECANAL ®
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19337
 #EXTINF:-1,|CINEMA DINAMITA
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19338
+#EXTINF:-1,|CINEMAX ®
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19339
 #EXTINF:-1,|FOX PREMIUM ACTION
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19342
 #EXTINF:-1,|FOX PREMIUM COMEDY
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19345
-#EXTINF:-1,FOX PREMIUM MOVIES  ®
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19347
+#EXTINF:-1,|FOX PREMIUM FAMILY ®
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19346
 #EXTINF:-1,|HBO FAMILY ®
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19351
+#EXTINF:-1,|HBO PLUS ®
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19352
 #EXTINF:-1,|HBO SIGNATURE
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19353
-#EXTINF:-1,| HBO  MUDI
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19354
-#EXTINF:-1,|SONY ®
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19356
 #EXTINF:-1,|SPACE ®
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19357
+#EXTINF:-1,LA..HQ:Cinecanal
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19448
+#EXTINF:-1,LA..HQ:Eurochannel
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19450
 #EXTINF:-1,LA..HQ:FX
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19452
-#EXTINF:-1,LA..HQ:Fox Action
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19454
-#EXTINF:-1,LA..HQ:Paramount Channel
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19468
-#EXTINF:-1,LA..HQ:ESPN 2 Sur
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19484
+#EXTINF:-1,LA..HQ:Fox Cinema
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19455
+#EXTINF:-1,LA..HQ:Fox Movies
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19457
+#EXTINF:-1,LA..HQ:HBO 2
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19460
+#EXTINF:-1,LA..HQ:HBO Family
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19461
+#EXTINF:-1,LA..HQ:HBO Plus
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19463
+#EXTINF:-1,LA..HQ:HBO Signature
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19465
+#EXTINF:-1,LA..HQ:Discovery Channel
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19477
+#EXTINF:-1,LA..HQ:Discovery Theater
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19478
+#EXTINF:-1,LA..HQ:History 2
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19479
+#EXTINF:-1,LA..HQ:History Channel
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19480
+#EXTINF:-1,LA..HQ:El Garage TV
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19483
 #EXTINF:-1,LA..HQ:Food Network
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19492
-#EXTINF:-1,LA..HQ:Glitz
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19494
+#EXTINF:-1,LA..HQ:Discovery Home & Health
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19495
 #EXTINF:-1,LA..HQ:TBS
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19498
-#EXTINF:-1,LA..HQ:TruTV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19499
 #EXTINF:-1,LA..HQ:Baby TV
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19500
 #EXTINF:-1,LA..HQ:Boomerang
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19501
+#EXTINF:-1,LA..HQ:Cartoon Network
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19502
 #EXTINF:-1,LA..HQ:Discovery Kids
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19503
-#EXTINF:-1,LA..HQ:Disney Channel
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19504
+#EXTINF:-1,LA..HQ:Disney XD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19505
+#EXTINF:-1,LA..HQ:Nat Geo Kids
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19506
 #EXTINF:-1,LA..HQ:Tooncast
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19508
-#EXTINF:-1,LA..HQ:CNN Internacional
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19511
-#EXTINF:-1,LA..HQ:Fox News
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19512
-#EXTINF:-1,LA..HQ:BBC World News
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19513
-#EXTINF:-1,LA..Cine Accion HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19520
-#EXTINF:-1,LA..Cine Ficcion/Fantasia 1
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19525
-#EXTINF:-1,LA..Cine Ficcion/Fantasia 2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19526
-#EXTINF:-1,LA..Cine Ficcion/Fantasia HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19527
-#EXTINF:-1,LA..Cine Infantil Sagas HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19532
-#EXTINF:-1,LA..Cine Marvel HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19535
-#EXTINF:-1,LA..Cine Romance HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19537
-#EXTINF:-1,LA..Cine Terror
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19538
-#EXTINF:-1,LA_SD:Dragon Ball Z 24/7
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19549
-#EXTINF:-1,LA_SD:Hey Arnold 24/7
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19550
-#EXTINF:-1,LA_SD:Scooby Doo 24/7
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19561
-#EXTINF:-1,WIN SPORTS + (PLUS) FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19642
-#EXTINF:-1,WIN SPORTS + (PLUS) HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19643
-#EXTINF:-1,WIN SPORTS + (PLUS) HD OPCION 1
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19645
-#EXTINF:-1,WIN SPORTS + (PLUS) HD OPCION 2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19647
-#EXTINF:-1,win sports + (plus) hd opcion 3
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19648
-#EXTINF:-1,US_HD:Cinema 36 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19652
-#EXTINF:-1,US_HD:Cinema 35 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19653
-#EXTINF:-1,US_HD:Cinema 33 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19655
-#EXTINF:-1,US_HD:Cinema 31 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19657
-#EXTINF:-1,US_HD:Cinema 30 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19658
-#EXTINF:-1,US_HD:Fox Sports Ohio
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19787
-#EXTINF:-1,US_HD:Fox Sports FS1
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19788
-#EXTINF:-1,US_HD:LA_El Gourmet
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19820
-#EXTINF:-1,US_HD:LA_Nat Geo Mundo
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19827
-#EXTINF:-1,US_HD:LA_Telemundo Washington WZDC
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19844
-#EXTINF:-1,US_HD:NBC Chicago
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19866
-#EXTINF:-1,US_HD:NBC SN HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19882
-#EXTINF:-1,US_HD:NESN Boston
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19895
-#EXTINF:-1,US_HD:Sportsnet Y
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19925
-#EXTINF:-1,US_HD:Stadium 4
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19929
-#EXTINF:-1,*ARG_HD:América TV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20229
-#EXTINF:-1,*ARG_HD:Crónica TV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20241
+#EXTINF:-1,LA..HQ:HTV
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19509
+#EXTINF:-1,LA..HQ:Rai Italia
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19518
+#EXTINF:-1,US_HD:Baby TV
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19690
+#EXTINF:-1,US_HD:CBS Miami
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19708
+#EXTINF:-1,US_HD:Crime & Investigation
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19731
+#EXTINF:-1,US_HD:Fox 10 KSAZ
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19754
+#EXTINF:-1,US_HD:Fox Business Network HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19763
+#EXTINF:-1,US_HD:HBO East
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19807
+#EXTINF:-1,US_HD:Inspirational
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19813
+#EXTINF:-1,US_HD:MSG 2
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19855
+#EXTINF:-1,US_HD:NBC Baltimore
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19863
+#EXTINF:-1,US_HD:Pac 12 Los Angeles
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19911
+#EXTINF:-1,US_HD:Showtime 2
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19919
+#EXTINF:-1,US_HD:TNT
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19959
+#EXTINF:-1,US_HD:ABC
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19965
+#EXTINF:-1,US_HD:Starz Encore Family HD_1080P
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19974
+#EXTINF:-1,US_HD:HBO 2 HD_1080P
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19988
+#EXTINF:-1,US_HD:Cinemax Action 2 HD_1080P
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19990
+#EXTINF:-1,US_HD:WWE NETWORK
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19991
+#EXTINF:-1,US_HD:NESN
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20021
+#EXTINF:-1,US_HD:STARZ COMEDY LATINO
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20028
+#EXTINF:-1,US_HD:MTV LIVE HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20051
+#EXTINF:-1,US_HD:MTV Live
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20065
+#EXTINF:-1,USA: SportsNet One HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20074
+#EXTINF:-1,USA_HD2:: Telemundo Harlingen
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20078
+#EXTINF:-1,*ARG_HD:A24
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20230
+#EXTINF:-1,*ARG_HD:Argentinísima Satelital
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20231
+#EXTINF:-1,*ARG_HD:Canal 9
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20236
+#EXTINF:-1,*ARG_HD:Canal de la Ciudad
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20237
 #EXTINF:-1,*ARG_HD:El Garage TV
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20244
-#EXTINF:-1,*ARG_HD:LN
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20245
-#EXTINF:-1,*ARG_HD:Telemundo Internacional
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20254
-#EXTINF:-1,*ARG_HD:TN
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20256
+#EXTINF:-1,*ARG_HD:Metro
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20246
+#EXTINF:-1,*ARG_HD:Quiero Música
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20248
+#EXTINF:-1,*ARG_HD:Telemax
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20253
+#EXTINF:-1,*ARG_HD:Telesur
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20255
 #EXTINF:-1,*ARG_HD:TruTV
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20257
+#EXTINF:-1,*ARG_HD:TV5 Monde
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20259
 #EXTINF:-1,*ARG_HD:TVE
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20260
-#EXTINF:-1,LA_FHD:Cinema 27 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20271
-#EXTINF:-1,LA_FHD:Cinema 26 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20272
-#EXTINF:-1,LA_FHD:Cinema 25 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20273
-#EXTINF:-1,LA_FHD:Cinema 23 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20275
-#EXTINF:-1,LA_FHD:Cinema 22 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20276
-#EXTINF:-1,LA_FHD:Cinema 19 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20279
-#EXTINF:-1,LA_FHD:Cinema 15 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20283
-#EXTINF:-1,LA_FHD:Cinema 09 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20289
-#EXTINF:-1,LA_FHD:Cinema 03 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20295
-#EXTINF:-1,VIP_BR:DISCOVERY CIVILIZATION HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20318
-#EXTINF:-1,VIP_BR:DISNEY XD HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20328
+#EXTINF:-1,LA_FHD:Cinema 07 PPV
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20291
+#EXTINF:-1,VIP_BR:DISCOVERY H&H HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20319
+#EXTINF:-1,VIP_BR:DISCOVERY WORLD HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20325
+#EXTINF:-1,VIP_BR:DISNEY CHANNEL HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20326
+#EXTINF:-1,VIP_BR:E! HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20329
+#EXTINF:-1,VIP_BR:ESPN 2 HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20330
 #EXTINF:-1,VIP_BR:ESPN HD
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20333
 #EXTINF:-1,VIP_BR:FISH TV HD
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20334
-#EXTINF:-1,VIP_BR:FOX HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20335
-#EXTINF:-1,VIP_BR:FOX LIFE HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20336
-#EXTINF:-1,VIP_BR:FOX PREMIUM 1 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20337
-#EXTINF:-1,VIP_BR:FOX PREMIUM 2 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20338
 #EXTINF:-1,VIP_BR:FOX SPORTS HD
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20340
-#EXTINF:-1,VIP_BR:FUTURA HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20341
-#EXTINF:-1,VIP_BR:GLOBO NEWS HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20343
-#EXTINF:-1,VIP_BR:HBO HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20350
-#EXTINF:-1,VIP_BR:HISTORY 2 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20353
-#EXTINF:-1,VIP_BR:HISTORY HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20354
-#EXTINF:-1,VIP_BR:MAX PRIME HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20358
+#EXTINF:-1,VIP_BR:MEGAPIX HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20360
+#EXTINF:-1,VIP_BR:MTV HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20361
+#EXTINF:-1,VIP_BR:MULTISHOW HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20362
+#EXTINF:-1,VIP_BR:PREMIERE 4 HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20374
 #EXTINF:-1,VIP_BR:PREMIERE 8 HD
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20378
-#EXTINF:-1,VIP_BR:PRIME BOX BRASIL HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20380
-#EXTINF:-1,VIP_BR:SBT HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20386
-#EXTINF:-1,VIP_BR:SONY HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20387
-#EXTINF:-1,VIP_BR:SPORTV 3 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20390
-#EXTINF:-1,VIP_BR:TELECINE PREMIUM HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20399
-#EXTINF:-1,VIP_BR:TV BRASIL HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20405
-#EXTINF:-1,VIP_BR:TV ESCOLA HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20408
-#EXTINF:-1,DISNEY PLUS+ PREMIUM CINE
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20458
-#EXTINF:-1,DISNEY PLUS+ PREMIUM KIDS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20459
-#EXTINF:-1,DISNEY PLUS+ PREMIUM FAMILY
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20460
-#EXTINF:-1,**LA:_Telemundo Dallas HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20620
+#EXTINF:-1,VIP_BR:PREMIERE CLUBE HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20379
+#EXTINF:-1,VIP_BR:STUDIO UNIVERSAL HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20391
+#EXTINF:-1,VIP_BR:SYFY HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20392
+#EXTINF:-1,VIP_BR:TBS HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20393
+#EXTINF:-1,VIP_BR:TCM HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20394
+#EXTINF:-1,VIP_BR:TELECINE ACTION HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20395
+#EXTINF:-1,VIP_BR:WARNER HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20413
+#EXTINF:-1,MOVISTAR FUTBOL 4K
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20415
+#EXTINF:-1,WIPR
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20448
+#EXTINF:-1,DISNEY PLUS CINE MARVEL
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20452
+#EXTINF:-1,DISNEY PLUS+ PREMIUM MOVIES
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20461
+#EXTINF:-1,MARVEL
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20465
+#EXTINF:-1,**LA:_Telemundo Boston HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20618
+#EXTINF:-1,**LA:_Telemundo Los Angeles HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20624
 #EXTINF:-1,**LA:_Telemundo National East
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20626
-#EXTINF:-1,CA: CBC Montreal
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20668
-#EXTINF:-1,LA_FHD:Cinema 36 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20824
-#EXTINF:-1,LA_FHD:CL Mega HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20828
-#EXTINF:-1,LA_FHD:CL Canal 13
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20829
-#EXTINF:-1,LA_FHD:CL Chilevisión
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20830
-#EXTINF:-1,LA_FHD:CL TVN
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20831
-#EXTINF:-1,LA_FHD:CL 24 Horas HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20834
-#EXTINF:-1,LA_FHD:CL2 Chilevisión
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20846
+#EXTINF:-1,**LA:_Telemundo Philadelphia HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20629
+#EXTINF:-1,**LA:_Telemundo Phoenix Arizona HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20630
+#EXTINF:-1,**LA:_Telemundo San Francisco HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20632
+#EXTINF:-1,**LA:_Telemundo San Fransisco HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20633
+#EXTINF:-1,**LA:_Telemundo Washington HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20634
+#EXTINF:-1,CA: AMC HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20635
+#EXTINF:-1,CA: BNN HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20636
+#EXTINF:-1,CA: CBC Charlottetown HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20638
+#EXTINF:-1,CA: CBC
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20642
+#EXTINF:-1,CA: Global FHD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20653
+#EXTINF:-1,CA: National Geographic HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20657
+#EXTINF:-1,TELERED
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20684
+#EXTINF:-1,LA_FHD:FOX SPORT CHILE
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20822
+#EXTINF:-1,LA_FHD:CL Chilevisión HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20826
+#EXTINF:-1,LA_FHD:CL Mega
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20833
+#EXTINF:-1,LA_FHD:CL TV Chile HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20835
+#EXTINF:-1,LA_FHD:CL TV Chile
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20837
+#EXTINF:-1,LA_FHD:CL TV+
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20838
+#EXTINF:-1,LA_FHD:CL CDF Premium HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20840
+#EXTINF:-1,LA_FHD:CL La Red TV
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20841
+#EXTINF:-1,LA_HD:Canal Uno CO
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20842
 #EXTINF:-1,LA_SD:CL2 La Red TV HD
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20847
-#EXTINF:-1,LA_FHD:CL2 Mega HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20848
 #EXTINF:-1,LA_FHD:CL2 TV Chile
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20850
 #EXTINF:-1,LA_FHD2:Golden Premier HD
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20852
+#EXTINF:-1,LA_FHD2:Discovery Science
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20856
+#EXTINF:-1,LA_FHD3:Animal Planet HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20857
+#EXTINF:-1,LA_FHD3:AXN HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20858
 #EXTINF:-1,LA_FHD3:Boomerang HD
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20859
-#EXTINF:-1,LA_FHD3:Cartoon Network HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20860
-#EXTINF:-1,LA_FHD3:Discovery Kids HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20863
+#EXTINF:-1,LA_FHD3:Discovery World HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20864
 #EXTINF:-1,LA_FHD3:Disney XD HD
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20867
-#EXTINF:-1,LA_FHD3:Paramount Network HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20877
-#EXTINF:-1,LA_FHD3:TNT HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20884
+#EXTINF:-1,LA_FHD3:Fox Cinema HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20870
+#EXTINF:-1,LA_FHD3:Studio Universal HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20881
+#EXTINF:-1,LA_FHD3:Syfy HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20882
 #EXTINF:-1,LA_FHD3:Universal Channel HD
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20885
+#EXTINF:-1,LA_FHD3:FX HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20889
+#EXTINF:-1,LA_FHD3:A&E HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20891
 #EXTINF:-1,LA_FHD3:Film & Arts HD
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20892
-#EXTINF:-1,LA_FHD3:TeenNick HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20893
-#EXTINF:-1,LA_FHD3:Telemundo Internacional HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20895
-#EXTINF:-1,LA_FHD:TIGO PARAGUAY2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20896
-#EXTINF:-1,LA_FHD3:TNT Sports HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20897
-#EXTINF:-1,LA_FHD:Unimas ESTE HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20911
-#EXTINF:-1,LA_FHD:MovieMax HD_1080P
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20914
-#EXTINF:-1,FR: A LA CARTE 2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21147
-#EXTINF:-1,FR: A LA CARTE 10 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21155
-#EXTINF:-1,FR: BOSS MOVIES 4 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21186
-#EXTINF:-1,FR: Canal Play 6
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21204
-#EXTINF:-1,FR: CANAL+ Series FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21216
-#EXTINF:-1,FR: CHASSE ET PECHE HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21219
-#EXTINF:-1,FR: Discovery Channel FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21233
-#EXTINF:-1,FR: Discovery Science FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21237
-#EXTINF:-1,FR: euronews HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21247
-#EXTINF:-1,FR: EUROSPORT 2 FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21249
-#EXTINF:-1,FR: EXTREME SPORT HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21250
-#EXTINF:-1,FR: GULLI FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21266
-#EXTINF:-1,FR: HISTOIRE FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21267
-#EXTINF:-1,FR: Investigation Discovery FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21270
-#EXTINF:-1,FR: M6 MUSIC HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21282
-#EXTINF:-1,FR: MY COMEDY HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21296
-#EXTINF:-1,FR: NAT GEO Wild FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21298
-#EXTINF:-1,FR: nickelodeon HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21299
-#EXTINF:-1,FR: Orange Cinema 3 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21316
-#EXTINF:-1,FR: PARAMOUNT Channel FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21320
-#EXTINF:-1,FR: RMC SPORT 3 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21335
-#EXTINF:-1,FR: TRACE Naija HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21374
-#EXTINF:-1,FR: TREK FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21378
-#EXTINF:-1,FR: TV 5
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21379
-#EXTINF:-1,FR: TV 5 MONDE FRANCE FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21380
-#EXTINF:-1,UK: BBC 1 FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21406
-#EXTINF:-1,UK: BBC 1 Northern Ireland HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21407
-#EXTINF:-1,UK: BT Sport ESPN FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21422
-#EXTINF:-1,UK: BT Sport ESPN HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21423
-#EXTINF:-1,UK: EIR SPORTS 2 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21460
-#EXTINF:-1,UK: Sky Action & Adventure HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21505
-#EXTINF:-1,UK: Sky Sports News FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21519
-#EXTINF:-1,UK: Sky Sports Premier League FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21520
-#EXTINF:-1,RU: NAT GEO Wild HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21567
-#EXTINF:-1,RU: nickelodeon HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21569
+#EXTINF:-1,LA_FHD3:Nick HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20894
+#EXTINF:-1,LA_FHD3:DHE HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20899
+#EXTINF:-1,LA_FHD:Telemundo Boston HD
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20909
+#EXTINF:-1,LA_FHD:Starz HD_1080P
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20913
+#EXTINF:-1,LA_FHD:IndiePlex HD_1080P
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20915
+#EXTINF:-1,LA_SD:CR_REPRETEL 11
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21621
 #EXTINF:-1,LA_SD:CR_REPRETEL 6
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21622
 #EXTINF:-1,LA_SD:CR_TELETICA 7
@@ -771,1427 +855,147 @@ http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21625
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21626
 #EXTINF:-1,LA_SD:CR_ANEXION TV
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21627
+#EXTINF:-1,LA_HD:CR_CANAL8
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21628
 #EXTINF:-1,LA_HD:CR_FUTV GRITALO
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21629
-#EXTINF:-1,LA_HD:CR_FUTV GRITALO-
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21631
-#EXTINF:-1,LA_HD:CR_TELE RED
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21632
-#EXTINF:-1,LA_HD:CR_MULTIMEDIOS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21634
+#EXTINF:-1,LA_HD:CR_TELETICA 7
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21630
 #EXTINF:-1,LA_HD:CR_TELESUR
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21635
-#EXTINF:-1,CANAL TRECE CHILE
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21700
+#EXTINF:-1,LA_HD:CR_TICAVISION
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21636
+#EXTINF:-1,LA_HD:CR_EXTREMA TV
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21637
 #EXTINF:-1,CDF BASICO
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21701
-#EXTINF:-1,LA RED
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21770
-#EXTINF:-1,CANAL 12 UR
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21772
+#EXTINF:-1,CANAL 10 UR
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21771
 #EXTINF:-1,TV CIUDAD UR
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21773
 #EXTINF:-1,TV NACIONAL DE URUGUAY
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21774
 #EXTINF:-1,24 HORAS CHILE
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21775
+#EXTINF:-1,CDN 37
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21932
 #EXTINF:-1,COLOR VISION 9
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21953
-#EXTINF:-1,DIGITAL 15
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21970
 #EXTINF:-1,TELEUNION
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21983
-#EXTINF:-1,ANTENA  7
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21986
+#EXTINF:-1,HD:RD-CDN
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21995
 #EXTINF:-1,RD-COLOR VISION
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22003
-#EXTINF:-1,RD-DIGITAL 15
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22004
-#EXTINF:-1,RD-TELESISTEMA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22005
-#EXTINF:-1,TELEPACIFICO OPCION 1
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22602
-#EXTINF:-1,SIN LIMITES
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22603
-#EXTINF:-1,EL CANAL DEL FUTBOL
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22627
-#EXTINF:-1,VENEVISION PLUS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22628
+#EXTINF:-1,TVN CHILE
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22614
+#EXTINF:-1,LA RED CHILE
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22615
 #EXTINF:-1,T V FAMILIA
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22631
-#EXTINF:-1,TELEMUINDO PTO RICO
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22843
+#EXTINF:-1,EL SALVADOR | CANAL 4
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22846
 #EXTINF:-1,UFC
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22850
-#EXTINF:-1,EL SALVADOR | WOW TV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22852
-#EXTINF:-1,HBO HD OP
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22856
-#EXTINF:-1,NBA | CHICAGO BULLS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22860
+#EXTINF:-1,MEGAVISION
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22851
+#EXTINF:-1,GUATEMALA | CANAL 7
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22855
+#EXTINF:-1,NBA | Toronto Raptors
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22858
+#EXTINF:-1,NBA | Sacramento Kings
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22859
 #EXTINF:-1,RTS ECUADOR
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/30624
-#EXTINF:-1,Castillo de arena (2017)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/4054.mp4
-#EXTINF:-1,CHUKY EL MUÑECO DIABOLICO (1987)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/4057.mp4
-#EXTINF:-1,El diario de Bridget Jones (2001)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/4065.mp4
-#EXTINF:-1,2067 (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/19541.mkv
-#EXTINF:-1,Baahubali: The Conclusion (2017)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20416.mkv
-#EXTINF:-1,La.leyenda.de.Baahubali.el.inicio.1080p-DescargateloCorp
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20417.mkv
-#EXTINF:-1, Go Wild (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20421.mkv
-#EXTINF:-1,Infamous (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20422.mkv
-#EXTINF:-1,Behind the Line: Escape to Dunkirk (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20423.mkv
-#EXTINF:-1,Padre por duplicado (2021)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20424.mkv
-#EXTINF:-1,Este cuerpo me sienta de muerte (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20425.mkv
-#EXTINF:-1,Return of the Tooth Fairy (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20432.mkv
-#EXTINF:-1,Spontaneous (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20434.mkv
-#EXTINF:-1,Tenet (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20435.mkv
-#EXTINF:-1,The Discovery (2017)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20439.mkv
-#EXTINF:-1,Toys of Terror (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20440.mkv
-#EXTINF:-1,Península (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20441.mkv
-#EXTINF:-1,Tremors: Shrieker Island (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20442.mkv
-#EXTINF:-1,A Christmas Love Story (2019)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20443.mkv
-#EXTINF:-1,Vanguard (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20444.mkv
-#EXTINF:-1,Wonder Woman 1984 (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20447.mkv
-#EXTINF:-1,100% Wolf: Pequeño gran lobo (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20449.mkv
-#EXTINF:-1,Butchers (2021)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20450.mkv
-#EXTINF:-1,Batman: Alma de Dragón (2021)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20463.mkv
-#EXTINF:-1, corrupción y conspiración (2021)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20467.mkv
-#EXTINF:-1,Toda una vida en un año (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20468.mkv
-#EXTINF:-1,Skyfire (2019)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20472.mkv
-#EXTINF:-1,¡Canta! (2016)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20473.mkv
-#EXTINF:-1,Cuento de Navidad (2019)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20474.mkv
-#EXTINF:-1,Noticias del gran mundo (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20475.mkv
-#EXTINF:-1,Dino Dana: The Movie (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20476.mkv
-#EXTINF:-1,El Ascensor (2021)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20477.mkv
-#EXTINF:-1,Hammer (2019)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20479.mkv
-#EXTINF:-1,A Gruta (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/20480.mkv
-#EXTINF:-1,Vengadores: Endgame (2019)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21642.mkv
-#EXTINF:-1,Beber de tu sangre (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21645.mkv
-#EXTINF:-1, Berlin: la novia se fuga (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21646.mkv
-#EXTINF:-1,Abismo (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21648.mkv
-#EXTINF:-1,Capone (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21649.mkv
-#EXTINF:-1,Glass Houses (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21651.mkv
-#EXTINF:-1,Coca La guerra por la erradicación
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21653.mp4
-#EXTINF:-1,CONCIERTO de BTS
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21655.mp4
-#EXTINF:-1,Documental completo Chavismo La Peste del siglo XXI
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21661.mp4
-#EXTINF:-1,Ella Bella Bingo (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21664.mkv
-#EXTINF:-1,EL MEJOR CONCIERTO DE ALEJANDRO SANZ COMPLETO EN MADRID
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21665.mp4
-#EXTINF:-1,El Mejor Concierto de Aventura Mix - Kings Of Bachata
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21666.mp4
-#EXTINF:-1,The Haunting of Alcatraz (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21667.mkv
-#EXTINF:-1, EL FIN DEL MUNDO
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21668.mp4
-#EXTINF:-1,Casa ajena (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21677.mkv
-#EXTINF:-1,Intersect (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21679.mkv
-#EXTINF:-1,Un plan irresistible (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21680.mkv
-#EXTINF:-1,It: Capítulo 2 (2019)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21681.mp4
-#EXTINF:-1,J Balvin en chile movistar
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21682.mp4
-#EXTINF:-1,José Luis Perales  Concierto Completo
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21685.mp4
-#EXTINF:-1,Juan Luis Guerra  Concierto Completo
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21686.mp4
-#EXTINF:-1,Karol G en Pal Norte 2019
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21687.mp4
-#EXTINF:-1,La Dama y el Vagabundo (2019)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/21699.mkv
-#EXTINF:-1,LO MEJOR DE RAFAEL OROZCO EN VIVO EXITOS
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22011.mp4
-#EXTINF:-1,Los Octonautas y las cuevas de Sac Actun (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22012.mkv
-#EXTINF:-1,The Speed Cubers (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22013.mkv
-#EXTINF:-1,Lo que el pulpo me enseñó (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22040.mkv
-#EXTINF:-1,Mulán (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22041.mkv
-#EXTINF:-1,Sleeping with Danger (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22092.mkv
-#EXTINF:-1,Soy Luna En Concierto   México   COMPLETO HD
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22094.mp4
-#EXTINF:-1,Los chicos de la banda (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22096.mkv
-#EXTINF:-1,La galería de los corazones rotos (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22097.mkv
-#EXTINF:-1,The Wrong Mommy (2019)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22104.mkv
-#EXTINF:-1,The Rental (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22108.mkv
-#EXTINF:-1,The Rolling Stones Live Full Concert 2017
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22109.mp4
-#EXTINF:-1,Tony Parker: La última canasta (2021)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22111.mkv
-#EXTINF:-1,BTS SPEAK YOURSELF
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22112.mp4
-#EXTINF:-1,Work It: Al ritmo de los sueños (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22113.mkv
-#EXTINF:-1,1917 (2019) sub
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22268.mkv
-#EXTINF:-1,Abigail (2019)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22278.mkv
-#EXTINF:-1,Adú (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22279.mkv
-#EXTINF:-1,Aguas oscuras (2019)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22283.mkv
-#EXTINF:-1,Ahí te encargo (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22285.mkv
-#EXTINF:-1,Anastasia: Once Upon a Time (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22326.mkv
-#EXTINF:-1,Cold Blood Legacy (2019)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22328.mkv
-#EXTINF:-1,Atrapa ese email (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22330.mkv
-#EXTINF:-1,Batman v. Superman: El amanecer de la Justicia (2016)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22331.avi
-#EXTINF:-1,Ben 10 contra el Universo: La película (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22332.mkv
-#EXTINF:-1, el pequeño dragón. Aventuras en la Jungla (2018)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22338.mkv
-#EXTINF:-1,Código 8 (2019)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22339.mkv
-#EXTINF:-1,Guilty (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22340.mkv
-#EXTINF:-1,Doctor Sueño (2019)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22533.mkv
-#EXTINF:-1,Espías con disfraz (2019)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22538.mkv
-#EXTINF:-1,Tyler Rake (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22539.mkv
-#EXTINF:-1,Le Mans '66 (2019)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22540.mkv
-#EXTINF:-1,Incriminando a John DeLorean (2019)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22541.mkv
-#EXTINF:-1,Pequeños detalles (2021)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22552.mkv
-#EXTINF:-1,La casa (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22553.mkv
-#EXTINF:-1,Condorito: la película (2017)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22626.mkv
-#EXTINF:-1,Z-O-M-B-I-E-S 2 (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22632.mkv
-#EXTINF:-1,Cuando éramos soldados (2002)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/22633.mkv
-#EXTINF:-1,Evangelion.1.11.2007.4K.latino.japonn_s.sub.H265
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30374.mkv
-#EXTINF:-1,Slash: Made in Stoke 24/7/11 (2011)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30506.mkv
-#EXTINF:-1,Slash: Made in Stoke 24/7/11 (2011)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30508.mkv
-#EXTINF:-1,Slayer  Live Rock In Rio (2013)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30509.mkv
-#EXTINF:-1,Soda Stereo: Gira Me Verás Volver (2008)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30516.mp4
-#EXTINF:-1,Soy Luna En Concierto – México (2018).HD [1080p] Latino
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30518.mkv
-#EXTINF:-1,Spice Girls  Live At Wembley Estadium (1998)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30519.mkv
-#EXTINF:-1,Thalía En Primera Fila (2009)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30528.mkv
-#EXTINF:-1,The Offspring  Rock Am Ring (2014)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30530.mkv
-#EXTINF:-1,Shakira  Rock In Rio (2011)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30536.mkv
-#EXTINF:-1,Shakira.In.Concert.El.Dorado.World.Tour.2020.HBO.WEB-DL.1080p.Latino
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30539.mkv
-#EXTINF:-1,Santa Feria  Festival De Buin (2015)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30544.mkv
-#EXTINF:-1,Ráfaga - Festival de Talca 2018
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30545.mp4
-#EXTINF:-1,Robbie Williams Live at Knebworth (TV Movie 2003)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30549.mkv
-#EXTINF:-1,Rihanna: Rock in Rio 2015 (2015)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30550.mkv
-#EXTINF:-1,Rihanna  Live Concert Global Citizen Festival (2016)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30551.mkv
-#EXTINF:-1,Red Hot Chili Peppers [2016] Rock Am Ring (2016)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30553.mkv
-#EXTINF:-1,Queen: Live at the Rainbow '74 (2014)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30561.mkv
-#EXTINF:-1,QUEEN LIVE AT THE RAINBOW '74 (BONUS)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30562.mkv
-#EXTINF:-1,Paul McCartney: Good Evening New York City (2009)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30569.mp4
-#EXTINF:-1,Nirvana  Mtv Unplugged (1993)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30574.mkv
-#EXTINF:-1, Storytime (2013)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30575.mkv
-#EXTINF:-1, Storytime (2013)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30577.mkv
-#EXTINF:-1,Motorhead  Stge Fright (2005)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30581.mkv
-#EXTINF:-1,Metallica  Nimes (2009)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30587.mkv
-#EXTINF:-1,Metallica: Quebec Magnetic (2012)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30589.mkv
-#EXTINF:-1,Megadeth: Blood in the Water - Live in San Diego (2008)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30594.mkv
-#EXTINF:-1,Mana - Concierto Completo
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30602.mp4
-#EXTINF:-1,Los Auténticos Decadentes - MTV Unplugged
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30613.mkv
-#EXTINF:-1,Los Autenticos Decadentes  Vive Latino (2016)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30614.mkv
-#EXTINF:-1,Led Zeppelin: The Song Remains the Same (1976)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30616.mkv
-#EXTINF:-1,The Cleansing Hour (2020)opc2
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30618.mkv
-#EXTINF:-1,Black Beach (2020)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30620.mkv
-#EXTINF:-1,Ohana: El tesoro de Hawái (2021)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30627.mkv
-#EXTINF:-1,Colegio de magia y hechicería (2021)
-http://diverplaytv.online:8090/movie/diverfausonoel0215/bgOZCOMIDW/30660.mkv
-#EXTINF:-1,CARACOL TV OPCION 1
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21690
 #EXTINF:-1,SEÑAL COLOMBIA OPCION 1
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21695
 #EXTINF:-1,CANAL CAPITAL OPCION 1
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21697
-#EXTINF:-1,LA..LQ:FXM
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19367
-#EXTINF:-1,LA..LQ:Fox
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19368
+#EXTINF:-1,LA..LQ:Cinemax
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19363
+#EXTINF:-1,LA..LQ:Fox Cinema
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19369
 #EXTINF:-1,LA..LQ:Fox Family
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19371
-#EXTINF:-1,LA..LQ:Fox Movies
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19372
-#EXTINF:-1,LA..LQ:Fox Series
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19373
 #EXTINF:-1,LA..LQ:HBO 2
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19375
-#EXTINF:-1,LA..LQ:HBO Plus
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19378
-#EXTINF:-1,LA..LQ:HBO Pop
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19379
-#EXTINF:-1,LA..LQ:Warner Channel
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19389
-#EXTINF:-1,LA..LQ:Discovery Channel
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19390
-#EXTINF:-1,LA..LQ:History 2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19395
-#EXTINF:-1,LA..LQ:Discovery Investigation
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19396
-#EXTINF:-1,LA..LQ:Natgeo
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19397
-#EXTINF:-1,LA..LQ:El Garage TV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19400
-#EXTINF:-1,LA..LQ:NBA TV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19406
-#EXTINF:-1,LA..LQ:Fox Sports Sur
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19404
-#EXTINF:-1,LA..LQ:Px Sports
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19407
-#EXTINF:-1,LA..LQ:TyC Sports
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19409
-#EXTINF:-1,LA..LQ:Comedy Central
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19410
-#EXTINF:-1,LA..LQ:Boomerang
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19421
-#EXTINF:-1,LA..LQ:Cartoon Network
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19422
-#EXTINF:-1,LA..LQ:Discovery Kids
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19423
-#EXTINF:-1,LA..LQ:MTV Hits
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19432
-#EXTINF:-1,LA..LQ:VH1
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19433
-#EXTINF:-1,LA..LQ:VH1 MegaHits
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19434
-#EXTINF:-1,LA..LQ:CNN Internacional
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19436
-#EXTINF:-1,LA..LQ:BBC World News
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19438
-#EXTINF:-1,LA..LQ:América Sports
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19439
-#EXTINF:-1,LA_SD:SUR_RCN NOVELAS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2085
-#EXTINF:-1,LA_SD:SUR_RCN NUESTRA TELE
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2089
-#EXTINF:-1,LA_SD:SUR_RCN NUESTRA TELE
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3122
-#EXTINF:-1,RCN OPCION 1
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21691
-#EXTINF:-1,SD:FOX CLASSIC
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19248
-#EXTINF:-1,LA_SD:SUR_Telecaribe
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2081
-#EXTINF:-1,LA_SD:SUR_CO_CITY TV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2095
-#EXTINF:-1,CANAL institucional
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3662
-#EXTINF:-1,REDMAS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22595
-#EXTINF:-1,CANAL 12
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22596
-#EXTINF:-1,TELE ISLAS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22597
-#EXTINF:-1,ME GUSTAS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22606
-#EXTINF:-1,TELEAMIGA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22608
-#EXTINF:-1,WIN SPORTS + (PLUS) SD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19646
-#EXTINF:-1,LA..LQ:Lifetime
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19416
-#EXTINF:-1,NTN 24 OPCION 1
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21696
-#EXTINF:-1,LA..LQ:Rai Italia
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19444
-#EXTINF:-1,LA..LQ:AXN
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19360
-#EXTINF:-1,LA..LQ:AMC
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19361
-#EXTINF:-1,LA..LQ:Cinecanal
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19362
-#EXTINF:-1,LA..LQ:Eurochannel
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19364
-#EXTINF:-1,LA..LQ:Europa Europa
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19365
-#EXTINF:-1,LA..LQ:FX
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19366
-#EXTINF:-1,LA..LQ:HBO Family
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19376
-#EXTINF:-1,LA..LQ:HBO Mundi
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19377
-#EXTINF:-1,LA..LQ:HBO Xtreme
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19380
 #EXTINF:-1,LA..LQ:Paramount Channel
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19382
-#EXTINF:-1,LA..LQ:Sony
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19383
-#EXTINF:-1,LA..LQ:Space
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19384
-#EXTINF:-1,LA..LQ:Studio Universal
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19385
-#EXTINF:-1,LA..LQ:TCM
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19386
-#EXTINF:-1,LA..LQ:TNT Series
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19387
-#EXTINF:-1,LA..LQ:Discovery Civilization
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19391
 #EXTINF:-1,LA..LQ:Discovery Theater
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19393
 #EXTINF:-1,LA..LQ:Discovery Turbo
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19394
 #EXTINF:-1,LA..LQ:Discovery Science
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19392
-#EXTINF:-1,LA..LQ:Nat Geo Wild
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19398
-#EXTINF:-1,LA..LQ:ESPN Sur
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19401
+#EXTINF:-1,LA..LQ:History 2
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19395
+#EXTINF:-1,LA..LQ:Discovery Investigation
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19396
+#EXTINF:-1,LA..LQ:Natgeo
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19397
+#EXTINF:-1,LA..LQ:Discovery TLC
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19399
 #EXTINF:-1,LA..LQ:ESPN + Sur
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19403
 #EXTINF:-1,LA..LQ:ESPN 2 Sur
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19402
-#EXTINF:-1,LA..LQ:Fox Sports Premium
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19405
+#EXTINF:-1,LA..LQ:NBA TV
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19406
 #EXTINF:-1,LA..LQ:TNT Sports
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19408
-#EXTINF:-1,LA..LQ:El Gourmet
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19411
-#EXTINF:-1,LA..LQ:Food Network
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19413
-#EXTINF:-1,LA..LQ:Film & Arts
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19412
-#EXTINF:-1,LA..LQ:Fox Life
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19414
-#EXTINF:-1,LA..LQ:GLITZ
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19415
-#EXTINF:-1,LA..LQ:Pasiones
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19417
+#EXTINF:-1,LA..LQ:Px Sports
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19407
+#EXTINF:-1,LA..LQ:TyC Sports
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19409
 #EXTINF:-1,LA..LQ:TBS
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19418
 #EXTINF:-1,LA..LQ:TruTV
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19419
-#EXTINF:-1,LA..LQ:Baby TV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19420
-#EXTINF:-1,LA..LQ:Disney Channel
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19424
-#EXTINF:-1,LA..LQ:Disney Junior
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19425
+#EXTINF:-1,LA..LQ:Cartoon Network
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19422
 #EXTINF:-1,LA..LQ:Disney XD
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19426
-#EXTINF:-1,LA..LQ:Nat Geo Kids
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19427
-#EXTINF:-1,LA..LQ:Nick
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19428
 #EXTINF:-1,LA..LQ:Tooncast
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19429
-#EXTINF:-1,LA..LQ:HTV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19430
 #EXTINF:-1,LA..LQ:MTV
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19431
 #EXTINF:-1,LA..LQ:CNN en Español
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19435
-#EXTINF:-1,LA..LQ:Fox News
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19437
+#EXTINF:-1,LA..LQ:CNN Internacional
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19436
+#EXTINF:-1,LA..LQ:América Sports
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19439
 #EXTINF:-1,LA..LQ:DeporTV
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19440
-#EXTINF:-1,LA..LQ:Much Music
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19441
 #EXTINF:-1,LA..LQ:TVE
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19443
-#EXTINF:-1,LA_SD:CARACOL
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2092
-#EXTINF:-1,LA_SD:Caracol Internacional
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2093
 #EXTINF:-1,CARACOL
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2101
-#EXTINF:-1,LA_SD:SUR_RCN
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2086
+#EXTINF:-1,LA_SD:SUR_Telecaribe
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2081
+#EXTINF:-1,TELECARIBE OPCION 2
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22601
 #EXTINF:-1,TELEANTIOQUIA
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22611
 #EXTINF:-1,LA_SD:SUR_CO_TELECAFE
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2098
-#EXTINF:-1,LA_SD:SUR_City
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2084
-#EXTINF:-1,NTN24
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2090
-#EXTINF:-1,LA_SD:SUR_CANAL CAPITAL
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2091
-#EXTINF:-1,LA_SD:SUR_CO_CABLENOTICIA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2094
+#EXTINF:-1,EL TIEMPO OPCION 1
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21698
+#EXTINF:-1,LA_SD:SUR_CO_CITY TV
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2095
 #EXTINF:-1,LA_SD:SUR_CO_SENAL COLOMBIANA
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2096
-#EXTINF:-1,LA_FHD:WIN SP
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2102
+#EXTINF:-1,CANAL institucional
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3662
+#EXTINF:-1,Canal uno opcion 1
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21693
+#EXTINF:-1,REDMAS
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22595
+#EXTINF:-1,CANAL 12
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22596
+#EXTINF:-1,AMORDISCOS
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22598
 #EXTINF:-1,SURAM TV
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22599
-#EXTINF:-1,TELEMUSICA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22600
 #EXTINF:-1,CLARO MUSICA
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22605
-#EXTINF:-1,TRECE
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22609
-#EXTINF:-1,TELEMEDELLIN
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/22612
-#EXTINF:-1,CARACOL INTERNACIONAL
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/30345
-#EXTINF:-1,LA_SD:SUR_PARAGUAY:Sur TV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2607
-#EXTINF:-1,LA_SD_MEX2:BLOMMBERG
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2590
-#EXTINF:-1,*ARG_HD:RAI
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2586
-#EXTINF:-1,LA_SD:CNN INT
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2581
-#EXTINF:-1,LA_SD:CNN ESPANOL
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2579
-#EXTINF:-1,LA_HD_MEX2:Formula Noticias
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2573
-#EXTINF:-1,LA_HD_MEX2:Al Jazeera HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2566
-#EXTINF:-1,LA_SD:NIC_Canal 6
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2560
-#EXTINF:-1,LA_SD_MEX2:i CLASSIC
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2553
-#EXTINF:-1,LA_SD_MEX2:BANDAMAX
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2552
-#EXTINF:-1,LA_SD_MEX2:MTV HITS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2551
-#EXTINF:-1,LA_HD_MEX2:VH1 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2550
-#EXTINF:-1,*ARG_HD:VH1
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2549
-#EXTINF:-1,*ARG_HD:MTV HITS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2545
-#EXTINF:-1,*ARG_HD:CANALDELAMUSICA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2540
-#EXTINF:-1,LA_SD:MTV HIT
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2539
-#EXTINF:-1,LA_HD_MEX2:VH1 Classic
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2535
-#EXTINF:-1,HD_VH1_1920
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2532
-#EXTINF:-1,HD_MTV_1920
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2531
-#EXTINF:-1,*ARG_HD:DISNEY JUNIOR
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2439
-#EXTINF:-1,LA_SD:SUR_DISNEY CHANNEL_
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2427
-#EXTINF:-1,LA_SD:DISNEY CHANNEL
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2426
-#EXTINF:-1,LA_SD:CARTOON NETWORK
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2424
-#EXTINF:-1,LA_HD_MEX2:Cartoon Network HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2416
-#EXTINF:-1,HD_NICK2_1920
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2412
-#EXTINF:-1,LA_SD:GUA_GUATEVISION
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2383
-#EXTINF:-1,LA_SD:GUA_CANAL 7
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2381
-#EXTINF:-1,LA_SD_MEX2:AZTECA7
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2375
-#EXTINF:-1,LA_SD_MEX2:AZTECA MUNDO
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2373
-#EXTINF:-1,LA_SD_MEX2:AZTECA CINEMA_
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2372
-#EXTINF:-1,LA_SD_MEX2:AZTECA CLICK
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2370
-#EXTINF:-1,US_HD:TELEVISION DOMUNICANA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2367
-#EXTINF:-1,US_HD:TELEMICRO
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2365
-#EXTINF:-1,*ARG_HD:TRUTV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2358
-#EXTINF:-1,LA_FHD:Univision New York HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2352
-#EXTINF:-1,US_HD:LA_Galavision HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2351
-#EXTINF:-1,LA_SD:HOLA TV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2348
-#EXTINF:-1,LA_SD:BBC ENTERTAINMENT
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2343
-#EXTINF:-1,LA_HD_MEX2:Isat
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2336
-#EXTINF:-1,LA_HD_MEX2:Garage TV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2332
-#EXTINF:-1,LA_SD:SUR_TLT
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2318
-#EXTINF:-1,LA_SD:SUR_OROMAR TV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2310
-#EXTINF:-1,LA_SD_MEX2:ESPN PLUS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2301
-#EXTINF:-1,LA_SD_MEX2:ESPN 3
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2299
-#EXTINF:-1,LA_SD_MEX2:ESPN
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2297
-#EXTINF:-1,LA_FHD:TIGO SPORT CR 1
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2296
-#EXTINF:-1,*ARG_HD:TYC SPORTS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2295
-#EXTINF:-1,*ARG_HD:ESPN 2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2293
-#EXTINF:-1,*ARG_HD:FOX SPORTS 2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2290
-#EXTINF:-1,LA_FHD:DirectvSP 2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2286
-#EXTINF:-1,LA_FHD2:Fox Sports HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2264
-#EXTINF:-1,LA_HD_MEX2:AYM Sports
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2240
-#EXTINF:-1,LA_HD:TIGO SPORTS 1 HD (BOLIVIA)
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2238
-#EXTINF:-1,LA_SD_MEX2:ANIMAL PLANET
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2179
-#EXTINF:-1,US_HD:DISCOVERY FAMILIA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2177
-#EXTINF:-1,LA_HD_MEX2:Nat Geo Wild HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2174
-#EXTINF:-1,LA_HD_MEX2:Discovery Civilization
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2163
-#EXTINF:-1,LA_HD_MEX2:Discovery Channel HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2160
-#EXTINF:-1,LA_SD:NAT GEO WILD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2159
-#EXTINF:-1,LA_SD:NAT GEO
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2158
-#EXTINF:-1,LA_SD:HISTORY CH
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2157
-#EXTINF:-1,LA_SD:H2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2156
-#EXTINF:-1,LA_SD:ANIMAL PLANET
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2149
-#EXTINF:-1,LA_HD_MEX2:History HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2140
-#EXTINF:-1,LA_HD_MEX2:Food Network HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2139
-#EXTINF:-1,ES:HISTORIA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2122
-#EXTINF:-1,LA_SD:SUR_History Channel
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2117
-#EXTINF:-1,LA_FHD:TIGO SPORT CR 1
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2110
-#EXTINF:-1,LA_SD:SUR_ATB
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2066
-#EXTINF:-1,LA_SD:SUR_BOLIVISION
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2065
-#EXTINF:-1,LA_SD:SUR_UNITEL
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2064
-#EXTINF:-1,ES:BLAZE
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1148
-#EXTINF:-1,ES: VIAJAR HD HEVC
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1140
-#EXTINF:-1,ES:LA 2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1136
-#EXTINF:-1,LA_SD_MEX2:UNIVERSAL
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1115
-#EXTINF:-1,LA_SD_MEX2:UNICABLE
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1114
-#EXTINF:-1,LA_SD_MEX2:TV MAS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1109
-#EXTINF:-1,LA_SD_MEX2:SYFY
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1095
-#EXTINF:-1,LA_SD_MEX2:RMS_
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1089
-#EXTINF:-1,LA_SD_MEX2:LAS ESTRELLAS_
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1072
-#EXTINF:-1,LA_SD_MEX2:GOLF CH
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1063
-#EXTINF:-1,LA_SD_MEX2:FOX CINEMA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1048
-#EXTINF:-1,LA_SD_MEX2:FOX CHANNEL
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1047
-#EXTINF:-1,LA_SD_MEX2:DISNEY CHANNEL
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1029
-#EXTINF:-1,LA_SD_MEX2:DISCOVERY WORLD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1028
-#EXTINF:-1,LA_SD_MEX2:AZTECA UNO_
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/996
-#EXTINF:-1,LA_HD_MEX2:SEC Network HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/918
-#EXTINF:-1,BOLV_:Logos Bolivia
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3186
-#EXTINF:-1,BEIN SPORT Ñ
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3196
-#EXTINF:-1,BeIN SPORTS 11
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3197
-#EXTINF:-1,BeIN SPORTS 11 FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3198
-#EXTINF:-1,BeIN SPORTS 6 FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3202
-#EXTINF:-1,BEIN US_HD:Bein 1
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3207
-#EXTINF:-1,BEIN US_HD:Bein 2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3208
-#EXTINF:-1,Bein 1
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3218
-#EXTINF:-1,NBA TV FHD (p)
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3227
-#EXTINF:-1,US_HD:NBA TV HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3228
-#EXTINF:-1,UFC Live HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3667
-#EXTINF:-1,ES:MOVISTAR LA LIGA DE CAMPEONES FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4067
-#EXTINF:-1,LA_FHD2:DISCOVERY CHANNELHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4069
-#EXTINF:-1,LA_FHD:Starz Encore Classic HD_1080P
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4094
-#EXTINF:-1,LA_FHD:Starz Encore Black HD_1080P
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4095
-#EXTINF:-1,LA_FHD:Starz Encore Action 1080P
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4096
-#EXTINF:-1,LA_FHD:Starz Edge HD_1080P
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4097
-#EXTINF:-1,LA_FHD:MoreMax HD_1080P
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4108
-#EXTINF:-1,LD:CINE DINAMITA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19243
-#EXTINF:-1,SD:FOX MOVIES
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19252
-#EXTINF:-1,LA_:HBO Family HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19264
-#EXTINF:-1,HBO Family HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19268
-#EXTINF:-1,LA_SD:PARAMOUNT
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19272
-#EXTINF:-1,LA_SD:SUR_AXN
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19273
-#EXTINF:-1,LA_SD:SUR_CINEMA DINAMITA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19274
-#EXTINF:-1,LA_SD:SUR_FOX CHANNEL
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19277
-#EXTINF:-1,LA_SD:SUR_FOX LIFE
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19278
-#EXTINF:-1,LA_SD:SUR_FX
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19282
-#EXTINF:-1,LA_SD:SUR_HBO
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19284
-#EXTINF:-1,*ARG_SD:UNIVERSAL
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19305
-#EXTINF:-1,*ARG_SD:WARNER
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19310
-#EXTINF:-1,*ARG_SD:AXN
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19311
-#EXTINF:-1,*ARG_SD:AMC
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19313
-#EXTINF:-1,*ARG_SD:SYFY
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19315
-#EXTINF:-1,*ARG_SD:LIFETIME
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19316
-#EXTINF:-1,*ARG_SD:FOX LIFE
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19322
-#EXTINF:-1,*ARG_SD:FOX CINEMA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19323
-#EXTINF:-1,| HBO  MUDI
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19331
-#EXTINF:-1,|SONY ®
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19333
-#EXTINF:-1,|SPACE ®
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19334
-#EXTINF:-1,|CINEMAX ®
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19339
-#EXTINF:-1,|FOX ®
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19340
-#EXTINF:-1,|FOX PREMIUM CLASSIC ®
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19344
-#EXTINF:-1,|HBO
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19349
-#EXTINF:-1,LA..HQ:Europa Europa
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19451
-#EXTINF:-1,LA..HQ:FXM
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19453
-#EXTINF:-1,LA..HQ:Fox Family
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19456
-#EXTINF:-1,LA..HQ:Fox Movies
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19457
-#EXTINF:-1,LA..HQ:HBO Mundi
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19462
-#EXTINF:-1,LA..HQ:HBO Pop
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19464
-#EXTINF:-1,LA..HQ:HBO Signature
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19465
-#EXTINF:-1,LA..HQ:Syfy
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19471
-#EXTINF:-1,LA..HQ:TCM
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19472
-#EXTINF:-1,LA..HQ:TNT
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19473
-#EXTINF:-1,LA..HQ:Warner Channel
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19476
-#EXTINF:-1,LA..HQ:Discovery Channel
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19477
-#EXTINF:-1,LA..HQ:History 2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19479
-#EXTINF:-1,LA..HQ:History Channel
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19480
-#EXTINF:-1,LA..HQ:Discovery TLC
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19482
-#EXTINF:-1,LA..HQ:ESPN + Sur
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19485
-#EXTINF:-1,LA..HQ:NBA TV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19488
-#EXTINF:-1,LA..HQ:PX Sports
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19489
-#EXTINF:-1,LA..HQ:Comedy Central
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19490
-#EXTINF:-1,LA..HQ:Fox Life
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19493
-#EXTINF:-1,LA..HQ:Lifetime
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19496
-#EXTINF:-1,LA..HQ:Nick
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19507
-#EXTINF:-1,LA..HQ:VH1 MegaHits
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19510
-#EXTINF:-1,LA..HQ:DeporTV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19514
-#EXTINF:-1,LA..HQ:Much Music
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19515
-#EXTINF:-1,LA..HQ:Telemundo Internacional
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19516
-#EXTINF:-1,LA..Cine Accion
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19519
-#EXTINF:-1,LA..Cine Accion Sagas HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19522
-#EXTINF:-1,LA..Cine Infantil HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19530
-#EXTINF:-1,LA..Cine Marvel
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19534
-#EXTINF:-1,LA..Cine Zombis
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19540
-#EXTINF:-1,LA_SD:The Big Bang Theory 24/7
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19565
-#EXTINF:-1,LA_SD:DON GATO Y SU PANDILLA SERIE COMPLETA SD 24/7.
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19604
-#EXTINF:-1,LA_SD:LA LEY DE MILO MURPHY SERIE TEMPORADA 1 HD 24/7.
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19618
-#EXTINF:-1,LA_SD:CHAPULIN COLORADO ANIMADO SERIE COMPLETA HD 24/7.
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19620
-#EXTINF:-1,LA_SD:MI BELLA GENIO SERIE COMPLETA SD 24/7.
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19626
-#EXTINF:-1,LA_SD:BARON ROJO SERIE COMPLETA HD 24/7.
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19637
-#EXTINF:-1,LA_SD:ALF SERIE COMPLETA SD 24/7.
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19638
-#EXTINF:-1,LA_SD:QUE HAY DE NUEVO SCOOBY DOO SERIE COMPLETA HD 24/7.
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19639
-#EXTINF:-1,US_HD:Cinema 38 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19650
-#EXTINF:-1,US_HD:Cinema 20 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19668
-#EXTINF:-1,US_HD:Cinema 18 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19670
-#EXTINF:-1,US_HD: RetroPlex HD_1080P
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19689
-#EXTINF:-1,US_HD:Cinemax West
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19724
-#EXTINF:-1,US_HD:CNBC HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19725
-#EXTINF:-1,US_HD:ESPN
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19749
-#EXTINF:-1,US_HD:Fox 13 KSTU
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19755
-#EXTINF:-1,US_HD:Fox Sports West HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19791
-#EXTINF:-1,US_HD:LA_Ritmoson
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19830
-#EXTINF:-1,US_HD:LA_Telemundo Miami WSCV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19840
-#EXTINF:-1,US_HD:LA_Telemundo New York WNJU
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19841
-#EXTINF:-1,US_HD:LA_Telemundo Phoenix KTAZ
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19842
-#EXTINF:-1,US_HD:NBC Universo HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19888
-#EXTINF:-1,US_HD:NESN Plus
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19898
-#EXTINF:-1,US_HD:NHL Network
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19901
-#EXTINF:-1,US_HD:Pac 12 Arizona
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19908
-#EXTINF:-1,US_HD:Willow Cricket
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19947
-#EXTINF:-1,US_HD:WGN
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19948
-#EXTINF:-1,US_HD: Star
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19963
-#EXTINF:-1,US_HD:Action Max
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19966
-#EXTINF:-1,US_HD:AMC
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19967
-#EXTINF:-1,US_HD:RetroPlex HD_1080P
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19981
-#EXTINF:-1,US_HD:CDN
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19998
-#EXTINF:-1,US_HD:DISCOVERY CHANNEL USA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20000
-#EXTINF:-1,US_HD:HBO SIGNATURE LATINO
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20012
-#EXTINF:-1,US_HD:NBCSB
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20020
-#EXTINF:-1,US_HD:NESN
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20021
-#EXTINF:-1,US_HD:STARZ COMEDY USA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20029
-#EXTINF:-1,US_HD:Wapa
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20044
-#EXTINF:-1,US_HD:American Heroes
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20047
-#EXTINF:-1,US_HD:Nick Music
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20068
-#EXTINF:-1,*ARG_HD:Canal 21
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20234
-#EXTINF:-1,*ARG_HD:Canal 9
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20236
-#EXTINF:-1,*ARG_HD:CM
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20238
-#EXTINF:-1,*ARG_HD:DeporTV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20242
-#EXTINF:-1,*ARG_HD:Much Music
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20247
-#EXTINF:-1,*ARG_HD:Telemax
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20253
-#EXTINF:-1,LA_FHD:Cinema 35 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20263
-#EXTINF:-1,LA_FHD:Cinema 34 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20264
-#EXTINF:-1,LA_FHD:Cinema 18 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20280
-#EXTINF:-1,LA_FHD:Cinema 17 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20281
-#EXTINF:-1,LA_FHD:Cinema 12 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20286
-#EXTINF:-1,VIP_BR:A&E HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20301
-#EXTINF:-1,VIP_BR:ANIMAL PLANET HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20302
-#EXTINF:-1,VIP_BR:BAND HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20305
-#EXTINF:-1,VIP_BR:BOOMERANG HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20309
-#EXTINF:-1,VIP_BR:CARTOON NETWORK HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20312
-#EXTINF:-1,VIP_BR:E! HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20329
-#EXTINF:-1,VIP_BR:ESPN BRASIL HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20331
-#EXTINF:-1,VIP_BR:GLOBO SP HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20345
-#EXTINF:-1,VIP_BR:GLOOB HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20346
-#EXTINF:-1,VIP_BR:HBO SIGNATURE HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20352
-#EXTINF:-1,VIP_BR:LIFETIME HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20355
-#EXTINF:-1,VIP_BR:MULTISHOW HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20362
-#EXTINF:-1,VIP_BR:PREMIERE 4 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20374
-#EXTINF:-1,VIP_BR:PREMIERE 7 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20377
-#EXTINF:-1,VIP_BR:PREMIERE CLUBE HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20379
-#EXTINF:-1,VIP_BR:RECORD HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20381
-#EXTINF:-1,VIP_BR:REDE TV HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20384
-#EXTINF:-1,VIP_BR:SPACE HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20388
-#EXTINF:-1,VIP_BR:SPORTV 2 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20389
-#EXTINF:-1,VIP_BR:STUDIO UNIVERSAL HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20391
-#EXTINF:-1,VIP_BR:WOOHOO HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20414
-#EXTINF:-1,DISNEY PLUS CINE MARVEL
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20452
-#EXTINF:-1,DISNEY PLUS CINEMAX ACCION
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20454
-#EXTINF:-1,DISNEY PLUS+ PREMIUM CIENCIA FICCION
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20456
-#EXTINF:-1,DISNEY PLUS+ PREMIUM MOVIES
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20461
-#EXTINF:-1,MARVEL
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20465
-#EXTINF:-1,**LA:_Telemundo Boston HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20618
-#EXTINF:-1,**LA:_Telemundo Fresno HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20621
-#EXTINF:-1,**LA:_Telemundo San Diego HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20631
-#EXTINF:-1,**LA:_Telemundo San Fransisco HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20633
-#EXTINF:-1,CA: CBC Charlottetown HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20638
-#EXTINF:-1,CA: CBC MONTEREAL
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20639
-#EXTINF:-1,CA: Disney HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20648
-#EXTINF:-1,CA: Casa
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20669
-#EXTINF:-1,CA: Disney
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20670
-#EXTINF:-1,LA_FHD:CL Canal 13 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20825
-#EXTINF:-1,LA_FHD:CL Chilevisión HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20826
-#EXTINF:-1,LA_FHD:CL La Red TV HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20827
-#EXTINF:-1,LA_FHD:CL TVN
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20832
-#EXTINF:-1,LA_FHD:CL 24 Horas
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20836
-#EXTINF:-1,LA_FHD:CL TV+
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20838
-#EXTINF:-1,LA_FHD:CL TV+ HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20839
-#EXTINF:-1,LA_FHD:CL2 Chilevisión HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20845
-#EXTINF:-1,LA_FHD:CL2 TVN
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20849
-#EXTINF:-1,LA_FHD2:Caracol TV HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20854
-#EXTINF:-1,LA_FHD2:Discovery Science
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20856
-#EXTINF:-1,LA_FHD3:Cinecanal HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20861
-#EXTINF:-1,LA_FHD3:ESPN 2 MX HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20868
-#EXTINF:-1,LA_FHD3:Fox HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20888
-#EXTINF:-1,LA_FHD3:FX HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20889
-#EXTINF:-1,LA_FHD3:A&E HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20891
-#EXTINF:-1,LA_FHD3:Claro Sports HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20898
-#EXTINF:-1,LA_FHD3:DHE HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20899
-#EXTINF:-1,LA_FHD:HBO Xtreme
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20916
-#EXTINF:-1,LA_FHD:HBO East HD_1080P
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20917
-#EXTINF:-1,LA_FHD:Cinemax East HD_1080P
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20918
-#EXTINF:-1,FUTV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21142
-#EXTINF:-1,FUTV OPCION 2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/21143
-#EXTINF:-1,LA_HD_MEX2:BBC World News
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2568
-#EXTINF:-1,*ARG_HD:MTV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2544
-#EXTINF:-1,*ARG_HD:QUIERO MUSICA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2542
-#EXTINF:-1,LA_SD:CONCERT CHANNEL
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2536
-#EXTINF:-1,LA_HD_MEX2:Bandamax
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2533
-#EXTINF:-1,*ARG_HD:NATGEO KIDS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2451
-#EXTINF:-1,LA_SD:NICK Jr
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2431
-#EXTINF:-1,LA_SD:NAT GEO KIDS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2430
-#EXTINF:-1,LA_SD:BOOMERANG
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2423
-#EXTINF:-1,LA_HD_MEX2:Baby TV HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2414
-#EXTINF:-1,HD_DISNEY XD_1920
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2411
-#EXTINF:-1,HD_CARTOON NETWORK_1920
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2409
-#EXTINF:-1,HD_BOOMERANG_1920
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2408
-#EXTINF:-1,LA_SD:SUR_Disney Jr
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2394
-#EXTINF:-1,LA_SD:HON_Canal 5
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2385
-#EXTINF:-1,LA_SD:GUA_CANAL 11
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2378
-#EXTINF:-1,US_HD:Super Canal 33
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2364
-#EXTINF:-1,*ARG_HD:GLITZ
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2356
-#EXTINF:-1,*ARG_HD:GARAGE
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2355
-#EXTINF:-1,LA_HD_MEX2:Telenovelas
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2354
-#EXTINF:-1,LA_SD:MAS CHIC
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2350
-#EXTINF:-1,LA_SD:Glitz
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2347
-#EXTINF:-1,LA_SD:COMEDY CENTRAL
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2345
-#EXTINF:-1,LA_SD:Canal de las Estrellas
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2344
-#EXTINF:-1,LA_HD_MEX2:TVE
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2341
-#EXTINF:-1,LA_HD_MEX2:TV Mas HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2340
-#EXTINF:-1,LA_HD_MEX2:AZ Corazon HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2326
-#EXTINF:-1,HD_E ENTERTAIMENTS _1920
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2320
-#EXTINF:-1,LA_SD:Gol TV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2312
-#EXTINF:-1,LA_SD:SUR_EC_ETC TV ECUADOR
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2311
-#EXTINF:-1,LA_FHD:DirectvSP 1
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2285
-#EXTINF:-1,LA_SD:WIN SPORT
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2282
-#EXTINF:-1,LA_FHD:WIN SP
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2281
-#EXTINF:-1,LA_HD_MEX2:Espn Plus HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2276
-#EXTINF:-1,LA_HD_MEX2:Espn 2 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2273
-#EXTINF:-1,HD_FOX SPORT 1 COLOMBIA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2268
-#EXTINF:-1,HD_ESPN 2_1920
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2266
-#EXTINF:-1,LA_HD_MEX2:Fox Sports 1
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2263
-#EXTINF:-1,LA_HD_MEX2:Fox Sports 2 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2260
-#EXTINF:-1,LA_HD_MEX2:TDN HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2259
-#EXTINF:-1,LA_SD:FOX SPORT 2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2252
-#EXTINF:-1,LA_SD:FOX SPORT
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2251
-#EXTINF:-1,LA_HD_MEX2:NBC Golf HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2241
-#EXTINF:-1,ES:LA LIGA TV HD BAR
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2214
-#EXTINF:-1,ES:MOVISTAR LIGA CAMPEONES HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2213
-#EXTINF:-1,LA_SD:DISCOVERY CIVILIZATION
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2151
-#EXTINF:-1,LA_SD:El GOURMET
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2148
-#EXTINF:-1,ES:NATIONAL GEO WILD HD HEVC
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2121
-#EXTINF:-1,LA_SD:CUBA_TELE REBELDE
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2113
-#EXTINF:-1,LA_SD:CUBA_Cubavision Internacional
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2112
-#EXTINF:-1,LA_SD:CR_Teletica 7
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2109
-#EXTINF:-1,LA_SD:CR_Repretel 6
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/2108
-#EXTINF:-1,ES:TAQUILLA 3 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1253
-#EXTINF:-1,ES:TAQUILLA 2 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1252
-#EXTINF:-1,ES:TNT HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1211
-#EXTINF:-1,ES:DISNEY CHANNEL HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1142
-#EXTINF:-1,ES:MOVISTAR LIGA CAMPEONES HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1121
-#EXTINF:-1,LA_SD_MEX2:TVE
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1113
-#EXTINF:-1,LA_SD_MEX2:TVC
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1111
-#EXTINF:-1,LA_SD_MEX2:TLC
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1103
-#EXTINF:-1,LA_SD_MEX2:TELEVISA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1101
-#EXTINF:-1,LA_SD_MEX2:TELERITMO
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1100
-#EXTINF:-1,LA_SD_MEX2:PARAMOUNT
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1086
-#EXTINF:-1,LA_SD_MEX2:NTN24
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1085
-#EXTINF:-1,LA_SD_MEX2:NAT GEO WILD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1080
-#EXTINF:-1,LA_SD_MEX2:MULTIMEDIOS P.
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1077
-#EXTINF:-1,LA_SD_MEX2:GOLDEN
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1060
-#EXTINF:-1,LA_SD_MEX2:FOX SPORTS
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1055
-#EXTINF:-1,LA_SD_MEX2:FOX SPORT2
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1054
-#EXTINF:-1,LA_SD_MEX2:FOOD NETWORK
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1043
-#EXTINF:-1,LA_SD_MEX2:CNN INT
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1016
-#EXTINF:-1,LA_SD_MEX2:CANAL 8
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1009
-#EXTINF:-1,LA_SD_MEX2:CANAL 7
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1008
-#EXTINF:-1,LA_SD_MEX2:BLOMMBERG
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1001
-#EXTINF:-1,LA_SD_MEX2:AZTECA 1
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/990
-#EXTINF:-1,LA_SD_MEX2:ANTENA3
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/987
-#EXTINF:-1,LA_HD_MEX2:Studio Universal HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/969
-#EXTINF:-1,LA_HD_MEX2:Espn U HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/944
-#EXTINF:-1,LA_HD_MEX2:Sundance TV HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/922
-#EXTINF:-1,LA_HD_MEX2:Star TVE HD/SD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/921
-#EXTINF:-1,LA_HD_MEX2:Multimedios HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/911
-#EXTINF:-1,RUIDOS TV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3181
-#EXTINF:-1,BOLV_:Sport
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3183
-#EXTINF:-1,BEIN SPORTS 4 FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3204
-#EXTINF:-1,BEIN SPORTS 2 FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3205
-#EXTINF:-1,BEIN SPORTS  FHD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/3206
-#EXTINF:-1,LA_FHD:Starz HD_1080P
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4088
-#EXTINF:-1,LA_FHD:Starz Comedy HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4099
-#EXTINF:-1,LA_FHD:Showtime West HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4102
-#EXTINF:-1,LA_FHD:Showtime Beyond HD_1080P
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4105
-#EXTINF:-1,LA_FHD:OuterMax HD_1080P
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4106
-#EXTINF:-1,LA_FHD:MoviePlex HD_1080P
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/4107
-#EXTINF:-1,SD:AMC
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19239
-#EXTINF:-1,LA_SD:SUR_MAX
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19271
-#EXTINF:-1,LA_SD:SUR_CLARO CINEMA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19276
-#EXTINF:-1,ES:TCM HD HEVC
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19293
-#EXTINF:-1,*ARG_SD:FOX ACTION
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19301
-#EXTINF:-1,*ARG_SD:FX
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19302
-#EXTINF:-1,LA..HQ:Cinecanal
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19448
-#EXTINF:-1,LA..HQ:HBO Xtreme
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19466
-#EXTINF:-1,LA..HQ:I.Sat
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19467
-#EXTINF:-1,LA..HQ:Discovery Theater
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19478
-#EXTINF:-1,LA..HQ:Fox Sports Premium
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19487
-#EXTINF:-1,LA..HQ:Film & Arts
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19491
-#EXTINF:-1,LA..HQ:Nat Geo Kids
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19506
-#EXTINF:-1,LA..HQ:TVE
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19517
-#EXTINF:-1,LA_SD:MR. BEAN 24/7
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19575
-#EXTINF:-1,US_HD:Cinema 24 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19664
-#EXTINF:-1,US_HD:Cinema 19 PPV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19669
-#EXTINF:-1,US_HD:Cartoon Network
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19698
-#EXTINF:-1,US_HD:Cinemax
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19722
-#EXTINF:-1,US_HD:Fox 47 WMSN
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19758
-#EXTINF:-1,US_HD:Fox Baltimore
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19761
-#EXTINF:-1,US_HD:Fox Sports 2 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19779
-#EXTINF:-1,US_HD:HBO Zone
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19809
-#EXTINF:-1,US_HD:LA_Bandamax
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19818
-#EXTINF:-1,US_HD:LA_Galavision HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19824
-#EXTINF:-1,US_HD:LA_Telemundo Los Angeles KVEA
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19838
-#EXTINF:-1,US_HD:LA_Telemundo Miami
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19839
-#EXTINF:-1,US_HD:MSG Plus
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19857
-#EXTINF:-1,US_HD:Nat Geo Wild HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19860
-#EXTINF:-1,US_HD:NBC 10 Philadelphia
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19861
-#EXTINF:-1,US_HD:NBC 12 KPNX
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19862
-#EXTINF:-1,US_HD:NBC SN Bay Area
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19876
-#EXTINF:-1,US_HD:NBC SN Northwest
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19883
-#EXTINF:-1,US_HD:NESN Maine Plus
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19897
-#EXTINF:-1,US_HD:WMFP Boston
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19946
-#EXTINF:-1,US_HD:Viceland HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19952
-#EXTINF:-1,US_HD:TV Land
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19956
-#EXTINF:-1,US_HD:Tru TV HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/19957
-#EXTINF:-1,USA: SPORTSNET 360
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20072
-#EXTINF:-1,*ARG_HD:Telefe
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20252
-#EXTINF:-1,VIP_BR:DISCOVERY TURBO HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20324
-#EXTINF:-1,VIP_BR:DISNEY JUNIOR HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20327
-#EXTINF:-1,VIP_BR:FOX SPORTS 2 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20339
-#EXTINF:-1,VIP_BR:HBO PLUS HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20351
-#EXTINF:-1,VIP_BR:MTV HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20361
-#EXTINF:-1,VIP_BR:NAT GEO WILD HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20364
-#EXTINF:-1,VIP_BR:NICK JR HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20366
-#EXTINF:-1,DISNEY PLUS CINE MARVEL  ANIME
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20453
-#EXTINF:-1,**LA:_Telemundo Philadelphia HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20629
-#EXTINF:-1,**LA:_Telemundo Phoenix Arizona HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20630
-#EXTINF:-1,CA: CBC HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20637
-#EXTINF:-1,CA: CHCH HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20645
-#EXTINF:-1,CA: RDI
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20671
-#EXTINF:-1,CA: Frissons TV
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20672
-#EXTINF:-1,CA: RDS Info
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20673
-#EXTINF:-1,CA: Super Ecran 1
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20674
-#EXTINF:-1,CA: Super Ecran 3
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20676
-#EXTINF:-1,LA_FHD:FOX SPORT CHILE
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20822
-#EXTINF:-1,LA_FHD:ACTION MAX
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20823
-#EXTINF:-1,LA_HD:Canal Uno CO
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20842
-#EXTINF:-1,LA_FHD:CL2 Canal 13 HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20843
-#EXTINF:-1,LA_FHD:CL2 Canal 13
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20844
-#EXTINF:-1,LA_FHD2:Cablenoticias HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20855
-#EXTINF:-1,LA_FHD3:AXN HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20858
-#EXTINF:-1,LA_FHD3:Fox Sports 2 MX HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20874
-#EXTINF:-1,LA_FHD3:FX Movies HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20876
-#EXTINF:-1,LA_FHD3:Warner Channel HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20886
-#EXTINF:-1,LA_FHD3:ESPN + HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20887
-#EXTINF:-1,LA_FHD3:AMC HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20890
-#EXTINF:-1,LA_FHD3:Nick HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20894
-#EXTINF:-1,LA_FHD3:E! Entertainment HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20900
-#EXTINF:-1,LA_FHD3:Fox Sports 2 Sur HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20906
-#EXTINF:-1,LA_FHD3:Fox Sports 3 Sur HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20907
-#EXTINF:-1,LA_FHD:Univision New York HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20910
-#EXTINF:-1,LA_FHD:Unimas Georgia HD
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20912
-#EXTINF:-1,LA_FHD:IndiePlex HD_1080P
-http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/20915
