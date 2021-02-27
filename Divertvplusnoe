@@ -405,6 +405,8 @@ http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/999
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/990
 #EXTINF:-1,LA_HD_MEX2:Comedy Central HD
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/974
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:DISTRITO COMEDIA" tvg-logo="" group-title="MEXICO",LA_SD_MEX2:DISTRITO COMEDIA
+http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/1032
 #EXTINF:-1,LA_HD_MEX2:Discovery Civilization
 http://diverplaytv.online:8090/diverfausonoel0215/bgOZCOMIDW/951
 #EXTINF:-1,LA_HD_MEX2:TVO HD
